@@ -1,0 +1,3901 @@
+ID_c;Age;Gender;Location;Frequency of Purchases
+1;55;Male;Kentucky;Fortnightly
+2;19;Male;Maine;Fortnightly
+3;50;Male;Massachusetts;Weekly
+4;21;Male;Rhode Island;Weekly
+5;45;Male;Oregon;Annually
+6;46;Male;Wyoming;Weekly
+7;63;Male;Montana;Quarterly
+8;27;Male;Louisiana;Weekly
+9;26;Male;West Virginia;Annually
+10;57;Male;Missouri;Quarterly
+11;53;Male;Arkansas;Bi-Weekly
+12;30;Male;Hawaii;Fortnightly
+13;61;Male;Delaware;Fortnightly
+14;65;Male;New Hampshire;Weekly
+15;64;Male;New York;Weekly
+16;64;Male;Rhode Island;Monthly
+17;25;Male;Alabama;Bi-Weekly
+18;53;Male;Mississippi;Quarterly
+19;52;Male;Montana;Weekly
+20;66;Male;Rhode Island;Bi-Weekly
+21;21;Male;Louisiana;Every 3 Months
+22;31;Male;North Carolina;Quarterly
+23;56;Male;California;Annually
+24;31;Male;Oklahoma;Weekly
+25;18;Male;Florida;Weekly
+26;18;Male;Texas;Annually
+27;38;Male;Nevada;Annually
+28;56;Male;Kentucky;Every 3 Months
+29;54;Male;North Carolina;Every 3 Months
+30;31;Male;Wyoming;Weekly
+31;57;Male;North Carolina;Monthly
+32;33;Male;West Virginia;Monthly
+33;36;Male;Kansas;Annually
+34;54;Male;Colorado;Quarterly
+35;36;Male;North Dakota;Quarterly
+36;54;Male;Massachusetts;Bi-Weekly
+37;35;Male;Illinois;Fortnightly
+38;35;Male;Indiana;Weekly
+39;29;Male;Florida;Every 3 Months
+40;70;Male;Arizona;Monthly
+41;69;Male;Louisiana;Quarterly
+42;67;Male;Alaska;Annually
+43;20;Male;Tennessee;Annually
+44;25;Male;Ohio;Fortnightly
+45;39;Male;Kentucky;Weekly
+46;50;Male;Tennessee;Annually
+47;57;Male;California;Quarterly
+48;55;Male;Montana;Weekly
+49;42;Male;Nevada;Monthly
+50;68;Male;New Jersey;Bi-Weekly
+51;49;Male;Maryland;Bi-Weekly
+52;59;Male;Vermont;Quarterly
+53;42;Male;Alaska;Weekly
+54;29;Male;Mississippi;Weekly
+55;47;Male;New Mexico;Bi-Weekly
+56;40;Male;South Carolina;Annually
+57;41;Male;Mississippi;Weekly
+58;21;Male;West Virginia;Fortnightly
+59;69;Male;Missouri;Monthly
+60;63;Male;Louisiana;Weekly
+61;50;Male;Idaho;Weekly
+62;55;Male;Texas;Every 3 Months
+63;30;Male;Mississippi;Fortnightly
+64;33;Male;Arizona;Weekly
+65;65;Male;Alabama;Fortnightly
+66;65;Male;New Jersey;Every 3 Months
+67;31;Male;Pennsylvania;Every 3 Months
+68;45;Male;Connecticut;Monthly
+69;57;Male;Utah;Every 3 Months
+70;48;Male;Tennessee;Weekly
+71;22;Male;Alabama;Every 3 Months
+72;36;Male;Virginia;Annually
+73;18;Male;Georgia;Every 3 Months
+74;48;Male;Hawaii;Bi-Weekly
+75;49;Male;Indiana;Monthly
+76;64;Male;Utah;Annually
+77;50;Male;Delaware;Monthly
+78;22;Male;Delaware;Fortnightly
+79;50;Male;Nebraska;Fortnightly
+80;38;Male;Iowa;Every 3 Months
+81;19;Male;New York;Every 3 Months
+82;67;Male;Virginia;Every 3 Months
+83;19;Male;Georgia;Every 3 Months
+84;36;Male;Texas;Weekly
+85;52;Male;Arizona;Every 3 Months
+86;53;Male;New Mexico;Bi-Weekly
+87;24;Male;Nevada;Bi-Weekly
+88;52;Male;Ohio;Fortnightly
+89;33;Male;Wyoming;Monthly
+90;47;Male;California;Quarterly
+91;25;Male;South Carolina;Monthly
+92;44;Male;South Carolina;Every 3 Months
+93;61;Male;Texas;Every 3 Months
+94;37;Male;Florida;Weekly
+95;58;Male;Nevada;Weekly
+96;37;Male;Missouri;Monthly
+97;32;Male;Delaware;Every 3 Months
+98;21;Male;Virginia;Annually
+99;20;Male;New York;Annually
+100;26;Male;Missouri;Quarterly
+101;62;Male;South Dakota;Fortnightly
+102;27;Male;North Dakota;Bi-Weekly
+103;51;Male;Oklahoma;Quarterly
+104;54;Male;West Virginia;Bi-Weekly
+105;55;Male;New Hampshire;Monthly
+106;69;Male;New York;Annually
+107;64;Male;Minnesota;Monthly
+108;28;Male;Maryland;Fortnightly
+109;70;Male;Montana;Bi-Weekly
+110;58;Male;Alabama;Fortnightly
+111;56;Male;New York;Fortnightly
+112;26;Male;Massachusetts;Annually
+113;37;Male;Florida;Bi-Weekly
+114;44;Male;New Jersey;Quarterly
+115;70;Male;Massachusetts;Weekly
+116;53;Male;Wyoming;Every 3 Months
+117;55;Male;Virginia;Annually
+118;50;Male;South Dakota;Fortnightly
+119;50;Male;Kentucky;Bi-Weekly
+120;38;Male;Wyoming;Annually
+121;64;Male;West Virginia;Annually
+122;19;Male;Virginia;Fortnightly
+123;40;Male;Washington;Fortnightly
+124;57;Male;Louisiana;Weekly
+125;44;Male;Nevada;Annually
+126;49;Male;California;Every 3 Months
+127;43;Male;Mississippi;Every 3 Months
+128;24;Male;Mississippi;Weekly
+129;20;Male;California;Fortnightly
+130;24;Male;Pennsylvania;Bi-Weekly
+131;44;Male;Kentucky;Fortnightly
+132;28;Male;Maine;Weekly
+133;30;Male;New Mexico;Weekly
+134;52;Male;Montana;Annually
+135;43;Male;Texas;Monthly
+136;43;Male;Kansas;Quarterly
+137;39;Male;South Carolina;Quarterly
+138;68;Male;Colorado;Weekly
+139;68;Male;Georgia;Weekly
+140;49;Male;Florida;Annually
+141;63;Male;North Carolina;Weekly
+142;56;Male;Virginia;Weekly
+143;37;Male;Nebraska;Fortnightly
+144;30;Male;Missouri;Quarterly
+145;19;Male;New Jersey;Monthly
+146;24;Male;Missouri;Quarterly
+147;52;Male;Colorado;Fortnightly
+148;63;Male;Idaho;Fortnightly
+149;37;Male;Wyoming;Annually
+150;38;Male;Delaware;Monthly
+151;35;Male;California;Every 3 Months
+152;28;Male;North Dakota;Annually
+153;30;Male;South Carolina;Annually
+154;69;Male;North Carolina;Annually
+155;41;Male;Oklahoma;Quarterly
+156;63;Male;Maine;Quarterly
+157;35;Male;Missouri;Annually
+158;36;Male;Vermont;Fortnightly
+159;25;Male;Connecticut;Monthly
+160;58;Male;New Hampshire;Every 3 Months
+161;27;Male;Texas;Monthly
+162;65;Male;North Dakota;Fortnightly
+163;54;Male;California;Bi-Weekly
+164;54;Male;Virginia;Weekly
+165;59;Male;Delaware;Fortnightly
+166;42;Male;Kentucky;Monthly
+167;46;Male;Delaware;Monthly
+168;33;Male;Arkansas;Every 3 Months
+169;34;Male;Louisiana;Fortnightly
+170;27;Male;Nevada;Every 3 Months
+171;52;Male;Wyoming;Bi-Weekly
+172;29;Male;Virginia;Weekly
+173;54;Male;Nebraska;Bi-Weekly
+174;25;Male;Hawaii;Annually
+175;41;Male;Vermont;Annually
+176;53;Male;Oklahoma;Annually
+177;53;Male;New Hampshire;Quarterly
+178;21;Male;Kansas;Monthly
+179;61;Male;Idaho;Quarterly
+180;64;Male;Illinois;Fortnightly
+181;51;Male;South Dakota;Fortnightly
+182;32;Male;Massachusetts;Weekly
+183;38;Male;Alabama;Annually
+184;58;Male;Ohio;Weekly
+185;32;Male;Hawaii;Fortnightly
+186;46;Male;Wisconsin;Fortnightly
+187;39;Male;Minnesota;Annually
+188;19;Male;Georgia;Bi-Weekly
+189;50;Male;Arkansas;Bi-Weekly
+190;36;Male;West Virginia;Weekly
+191;65;Male;Indiana;Quarterly
+192;64;Male;Utah;Every 3 Months
+193;46;Male;Nebraska;Bi-Weekly
+194;36;Male;North Dakota;Annually
+195;51;Male;Missouri;Quarterly
+196;51;Male;New York;Monthly
+197;38;Male;Washington;Fortnightly
+198;59;Male;South Carolina;Monthly
+199;57;Male;Utah;Fortnightly
+200;54;Male;Idaho;Weekly
+201;25;Male;Pennsylvania;Monthly
+202;69;Male;Missouri;Annually
+203;57;Male;Nebraska;Annually
+204;70;Male;Indiana;Weekly
+205;24;Male;Arizona;Bi-Weekly
+206;67;Male;Hawaii;Weekly
+207;24;Male;Wisconsin;Fortnightly
+208;62;Male;Rhode Island;Bi-Weekly
+209;57;Male;Wisconsin;Monthly
+210;55;Male;Minnesota;Every 3 Months
+211;45;Male;Vermont;Fortnightly
+212;69;Male;South Dakota;Fortnightly
+213;67;Male;Virginia;Annually
+214;30;Male;Nevada;Every 3 Months
+215;24;Male;Hawaii;Every 3 Months
+216;62;Male;New Jersey;Bi-Weekly
+217;43;Male;Massachusetts;Weekly
+218;35;Male;Oklahoma;Annually
+219;28;Male;California;Quarterly
+220;32;Male;Nevada;Fortnightly
+221;39;Male;Arizona;Fortnightly
+222;28;Male;North Carolina;Quarterly
+223;47;Male;New York;Fortnightly
+224;20;Male;Wyoming;Annually
+225;63;Male;South Dakota;Every 3 Months
+226;25;Male;Arkansas;Annually
+227;29;Male;Texas;Monthly
+228;50;Male;Rhode Island;Fortnightly
+229;18;Male;New Hampshire;Annually
+230;70;Male;Ohio;Every 3 Months
+231;66;Male;Utah;Annually
+232;28;Male;Tennessee;Every 3 Months
+233;54;Male;Hawaii;Bi-Weekly
+234;19;Male;Arizona;Every 3 Months
+235;20;Male;South Dakota;Weekly
+236;43;Male;New Jersey;Quarterly
+237;38;Male;North Dakota;Fortnightly
+238;50;Male;Iowa;Fortnightly
+239;64;Male;Ohio;Annually
+240;49;Male;Vermont;Bi-Weekly
+241;47;Male;Montana;Fortnightly
+242;36;Male;Delaware;Bi-Weekly
+243;55;Male;New York;Every 3 Months
+244;25;Male;Kentucky;Monthly
+245;53;Male;Oregon;Weekly
+246;49;Male;Rhode Island;Fortnightly
+247;35;Male;Nevada;Bi-Weekly
+248;29;Male;Montana;Weekly
+249;47;Male;Pennsylvania;Weekly
+250;53;Male;Alaska;Annually
+251;33;Male;Mississippi;Weekly
+252;21;Male;Wyoming;Annually
+253;32;Male;Delaware;Fortnightly
+254;52;Male;Oklahoma;Bi-Weekly
+255;67;Male;Indiana;Bi-Weekly
+256;43;Male;Maryland;Annually
+257;58;Male;South Dakota;Every 3 Months
+258;20;Male;West Virginia;Quarterly
+259;61;Male;Alabama;Quarterly
+260;32;Male;Louisiana;Annually
+261;38;Male;Montana;Every 3 Months
+262;21;Male;California;Annually
+263;37;Male;Hawaii;Annually
+264;27;Male;Iowa;Monthly
+265;36;Male;Colorado;Annually
+266;32;Male;Michigan;Bi-Weekly
+267;51;Male;Louisiana;Weekly
+268;64;Male;Maryland;Annually
+269;68;Male;Georgia;Monthly
+270;68;Male;Georgia;Bi-Weekly
+271;33;Male;North Dakota;Annually
+272;65;Male;Maryland;Fortnightly
+273;48;Male;Oregon;Bi-Weekly
+274;69;Male;North Dakota;Quarterly
+275;59;Male;Maryland;Bi-Weekly
+276;48;Male;Virginia;Weekly
+277;25;Male;South Dakota;Fortnightly
+278;29;Male;Georgia;Bi-Weekly
+279;57;Male;Hawaii;Annually
+280;23;Male;Arkansas;Monthly
+281;45;Male;Montana;Bi-Weekly
+282;38;Male;Oklahoma;Bi-Weekly
+283;21;Male;Minnesota;Monthly
+284;32;Male;Montana;Annually
+285;63;Male;Ohio;Quarterly
+286;29;Male;Kentucky;Bi-Weekly
+287;27;Male;Nebraska;Annually
+288;56;Male;Delaware;Fortnightly
+289;30;Male;North Carolina;Bi-Weekly
+290;49;Male;New York;Monthly
+291;58;Male;Colorado;Weekly
+292;57;Male;Delaware;Monthly
+293;60;Male;Utah;Quarterly
+294;69;Male;Connecticut;Annually
+295;70;Male;New Jersey;Every 3 Months
+296;53;Male;West Virginia;Quarterly
+297;25;Male;Indiana;Weekly
+298;48;Male;Delaware;Bi-Weekly
+299;69;Male;Maryland;Every 3 Months
+300;25;Male;Pennsylvania;Fortnightly
+301;29;Male;Iowa;Weekly
+302;46;Male;Pennsylvania;Every 3 Months
+303;37;Male;Delaware;Every 3 Months
+304;20;Male;Oregon;Weekly
+305;40;Male;Oregon;Bi-Weekly
+306;60;Male;Utah;Annually
+307;26;Male;North Dakota;Annually
+308;29;Male;Florida;Every 3 Months
+309;66;Male;Maryland;Bi-Weekly
+310;66;Male;Minnesota;Fortnightly
+311;56;Male;Montana;Fortnightly
+312;69;Male;Rhode Island;Monthly
+313;38;Male;Massachusetts;Annually
+314;42;Male;Vermont;Every 3 Months
+315;30;Male;New Jersey;Every 3 Months
+316;66;Male;Wisconsin;Annually
+317;36;Male;California;Monthly
+318;58;Male;West Virginia;Every 3 Months
+319;45;Male;South Dakota;Annually
+320;47;Male;Maine;Every 3 Months
+321;66;Male;Kansas;Quarterly
+322;41;Male;Vermont;Quarterly
+323;41;Male;Tennessee;Monthly
+324;66;Male;Tennessee;Bi-Weekly
+325;37;Male;Wyoming;Quarterly
+326;70;Male;Vermont;Annually
+327;62;Male;New Jersey;Weekly
+328;61;Male;Iowa;Weekly
+329;48;Male;Florida;Weekly
+330;70;Male;Nevada;Monthly
+331;46;Male;North Dakota;Bi-Weekly
+332;31;Male;Florida;Quarterly
+333;19;Male;New York;Monthly
+334;39;Male;Alaska;Bi-Weekly
+335;41;Male;Kansas;Annually
+336;20;Male;Oregon;Every 3 Months
+337;36;Male;Rhode Island;Annually
+338;32;Male;New Mexico;Annually
+339;69;Male;Massachusetts;Weekly
+340;40;Male;Pennsylvania;Every 3 Months
+341;40;Male;New Jersey;Every 3 Months
+342;20;Male;Utah;Bi-Weekly
+343;64;Male;Kentucky;Every 3 Months
+344;27;Male;Nebraska;Monthly
+345;24;Male;Virginia;Monthly
+346;48;Male;Wyoming;Annually
+347;49;Male;New Mexico;Weekly
+348;36;Male;Oregon;Fortnightly
+349;56;Male;South Carolina;Fortnightly
+350;37;Male;Arizona;Bi-Weekly
+351;42;Male;Kentucky;Fortnightly
+352;28;Male;New York;Bi-Weekly
+353;27;Male;Texas;Every 3 Months
+354;63;Male;Missouri;Monthly
+355;58;Male;Pennsylvania;Weekly
+356;37;Male;Oregon;Every 3 Months
+357;56;Male;Nevada;Weekly
+358;18;Male;Arkansas;Bi-Weekly
+359;48;Male;Minnesota;Every 3 Months
+360;31;Male;Georgia;Every 3 Months
+361;51;Male;Rhode Island;Fortnightly
+362;65;Male;Nevada;Annually
+363;53;Male;Texas;Fortnightly
+364;55;Male;Florida;Fortnightly
+365;62;Male;North Dakota;Every 3 Months
+366;55;Male;West Virginia;Quarterly
+367;64;Male;Nebraska;Fortnightly
+368;52;Male;Tennessee;Monthly
+369;24;Male;Oklahoma;Monthly
+370;38;Male;Wisconsin;Quarterly
+371;59;Male;Oregon;Weekly
+372;27;Male;North Carolina;Monthly
+373;24;Male;Pennsylvania;Weekly
+374;23;Male;North Dakota;Bi-Weekly
+375;69;Male;Ohio;Monthly
+376;59;Male;Oklahoma;Quarterly
+377;51;Male;South Carolina;Bi-Weekly
+378;63;Male;Maine;Every 3 Months
+379;54;Male;Nevada;Monthly
+380;32;Male;Montana;Bi-Weekly
+381;39;Male;New Hampshire;Weekly
+382;66;Male;Maine;Every 3 Months
+383;28;Male;California;Quarterly
+384;50;Male;West Virginia;Quarterly
+385;70;Male;California;Annually
+386;67;Male;West Virginia;Bi-Weekly
+387;64;Male;Louisiana;Quarterly
+388;45;Male;Georgia;Fortnightly
+389;22;Male;Washington;Quarterly
+390;27;Male;Virginia;Monthly
+391;25;Male;Indiana;Annually
+392;37;Male;Minnesota;Fortnightly
+393;26;Male;Idaho;Annually
+394;33;Male;Vermont;Fortnightly
+395;43;Male;North Dakota;Bi-Weekly
+396;37;Male;Rhode Island;Annually
+397;46;Male;South Carolina;Annually
+398;22;Male;Mississippi;Annually
+399;20;Male;Montana;Every 3 Months
+400;60;Male;Idaho;Monthly
+401;39;Male;Utah;Fortnightly
+402;43;Male;Oklahoma;Quarterly
+403;31;Male;California;Monthly
+404;19;Male;Nevada;Annually
+405;35;Male;Delaware;Monthly
+406;41;Male;South Carolina;Annually
+407;52;Male;Maryland;Monthly
+408;45;Male;North Carolina;Bi-Weekly
+409;34;Male;Alabama;Fortnightly
+410;35;Male;Minnesota;Monthly
+411;29;Male;Virginia;Quarterly
+412;59;Male;Michigan;Annually
+413;24;Male;Maine;Weekly
+414;70;Male;Nevada;Monthly
+415;29;Male;Wyoming;Weekly
+416;67;Male;Connecticut;Monthly
+417;36;Male;Oregon;Fortnightly
+418;23;Male;Mississippi;Quarterly
+419;18;Male;Illinois;Bi-Weekly
+420;53;Male;Utah;Every 3 Months
+421;32;Male;North Carolina;Bi-Weekly
+422;38;Male;Kentucky;Bi-Weekly
+423;47;Male;Minnesota;Annually
+424;46;Male;New York;Bi-Weekly
+425;66;Male;Illinois;Fortnightly
+426;40;Male;North Dakota;Quarterly
+427;43;Male;Louisiana;Quarterly
+428;58;Male;Illinois;Quarterly
+429;21;Male;Wyoming;Fortnightly
+430;42;Male;Washington;Fortnightly
+431;24;Male;Texas;Annually
+432;43;Male;New Hampshire;Fortnightly
+433;47;Male;Indiana;Weekly
+434;49;Male;Alabama;Fortnightly
+435;50;Male;Oklahoma;Every 3 Months
+436;51;Male;Montana;Monthly
+437;40;Male;Tennessee;Weekly
+438;45;Male;New Mexico;Annually
+439;52;Male;Iowa;Fortnightly
+440;62;Male;Idaho;Monthly
+441;20;Male;Oklahoma;Fortnightly
+442;43;Male;Florida;Annually
+443;29;Male;Michigan;Quarterly
+444;22;Male;Hawaii;Annually
+445;48;Male;California;Annually
+446;42;Male;Iowa;Annually
+447;19;Male;West Virginia;Monthly
+448;60;Male;Washington;Every 3 Months
+449;32;Male;Missouri;Fortnightly
+450;26;Male;New York;Monthly
+451;25;Male;Connecticut;Monthly
+452;66;Male;Virginia;Fortnightly
+453;45;Male;Missouri;Fortnightly
+454;54;Male;Nebraska;Weekly
+455;37;Male;New Jersey;Bi-Weekly
+456;54;Male;Utah;Fortnightly
+457;50;Male;North Carolina;Quarterly
+458;25;Male;Rhode Island;Every 3 Months
+459;47;Male;Arkansas;Monthly
+460;63;Male;Maryland;Fortnightly
+461;64;Male;South Carolina;Weekly
+462;18;Male;Ohio;Weekly
+463;59;Male;Illinois;Every 3 Months
+464;37;Male;Georgia;Weekly
+465;23;Male;Alabama;Monthly
+466;54;Male;Oklahoma;Quarterly
+467;38;Male;Vermont;Weekly
+468;19;Male;Nebraska;Every 3 Months
+469;34;Male;Georgia;Quarterly
+470;21;Male;Alabama;Bi-Weekly
+471;50;Male;Minnesota;Every 3 Months
+472;55;Male;Missouri;Quarterly
+473;20;Male;Georgia;Quarterly
+474;34;Male;West Virginia;Every 3 Months
+475;62;Male;Arkansas;Quarterly
+476;21;Male;Ohio;Annually
+477;21;Male;Connecticut;Fortnightly
+478;42;Male;North Dakota;Weekly
+479;35;Male;Kansas;Annually
+480;39;Male;Iowa;Monthly
+481;68;Male;Vermont;Bi-Weekly
+482;46;Male;Wisconsin;Fortnightly
+483;41;Male;Connecticut;Annually
+484;23;Male;Oklahoma;Weekly
+485;68;Male;Missouri;Quarterly
+486;48;Male;Tennessee;Fortnightly
+487;38;Male;New Mexico;Every 3 Months
+488;41;Male;Iowa;Quarterly
+489;58;Male;Maine;Weekly
+490;49;Male;South Dakota;Annually
+491;57;Male;Colorado;Monthly
+492;49;Male;Vermont;Bi-Weekly
+493;50;Male;Michigan;Weekly
+494;28;Male;Nevada;Bi-Weekly
+495;38;Male;Indiana;Weekly
+496;33;Male;Michigan;Fortnightly
+497;30;Male;California;Fortnightly
+498;43;Male;Oklahoma;Weekly
+499;43;Male;Iowa;Monthly
+500;36;Male;Rhode Island;Monthly
+501;36;Male;Washington;Every 3 Months
+502;64;Male;Florida;Annually
+503;59;Male;South Carolina;Fortnightly
+504;55;Male;West Virginia;Quarterly
+505;42;Male;Missouri;Annually
+506;61;Male;Maine;Bi-Weekly
+507;28;Male;Georgia;Annually
+508;65;Male;Maine;Fortnightly
+509;27;Male;Illinois;Quarterly
+510;41;Male;Delaware;Weekly
+511;21;Male;West Virginia;Annually
+512;61;Male;Hawaii;Annually
+513;19;Male;New York;Monthly
+514;22;Male;New Mexico;Annually
+515;64;Male;Indiana;Quarterly
+516;28;Male;Kentucky;Monthly
+517;34;Male;West Virginia;Bi-Weekly
+518;61;Male;North Dakota;Every 3 Months
+519;24;Male;Oregon;Every 3 Months
+520;19;Male;Minnesota;Quarterly
+521;51;Male;South Carolina;Quarterly
+522;36;Male;Vermont;Annually
+523;65;Male;Minnesota;Quarterly
+524;46;Male;Delaware;Quarterly
+525;59;Male;Pennsylvania;Annually
+526;51;Male;Iowa;Monthly
+527;51;Male;New Jersey;Monthly
+528;21;Male;South Carolina;Every 3 Months
+529;34;Male;Maryland;Annually
+530;32;Male;California;Monthly
+531;48;Male;Montana;Bi-Weekly
+532;50;Male;Vermont;Weekly
+533;26;Male;Texas;Every 3 Months
+534;57;Male;North Carolina;Weekly
+535;65;Male;Florida;Quarterly
+536;56;Male;West Virginia;Weekly
+537;44;Male;Illinois;Every 3 Months
+538;50;Male;Virginia;Annually
+539;27;Male;Virginia;Weekly
+540;49;Male;Wyoming;Weekly
+541;49;Male;South Carolina;Every 3 Months
+542;52;Male;Connecticut;Bi-Weekly
+543;27;Male;Illinois;Bi-Weekly
+544;53;Male;Alabama;Monthly
+545;34;Male;Washington;Every 3 Months
+546;33;Male;Alabama;Annually
+547;62;Male;New Mexico;Bi-Weekly
+548;38;Male;Nevada;Weekly
+549;36;Male;Nebraska;Every 3 Months
+550;31;Male;Arizona;Bi-Weekly
+551;62;Male;Georgia;Weekly
+552;29;Male;Idaho;Bi-Weekly
+553;24;Male;Missouri;Weekly
+554;63;Male;Florida;Quarterly
+555;56;Male;Minnesota;Weekly
+556;63;Male;Maine;Annually
+557;40;Male;Montana;Fortnightly
+558;18;Male;Alaska;Weekly
+559;50;Male;Iowa;Every 3 Months
+560;66;Male;Arizona;Monthly
+561;25;Male;Louisiana;Annually
+562;65;Male;Alabama;Fortnightly
+563;53;Male;Missouri;Annually
+564;61;Male;Idaho;Quarterly
+565;67;Male;Florida;Weekly
+566;59;Male;Idaho;Weekly
+567;55;Male;Alabama;Fortnightly
+568;21;Male;New Hampshire;Fortnightly
+569;44;Male;Utah;Monthly
+570;65;Male;Alabama;Every 3 Months
+571;65;Male;Iowa;Annually
+572;54;Male;Kentucky;Weekly
+573;56;Male;South Carolina;Annually
+574;58;Male;California;Bi-Weekly
+575;54;Male;Maine;Bi-Weekly
+576;58;Male;Nebraska;Monthly
+577;48;Male;Washington;Every 3 Months
+578;19;Male;Alabama;Annually
+579;69;Male;Maine;Fortnightly
+580;58;Male;California;Annually
+581;49;Male;Iowa;Weekly
+582;32;Male;Iowa;Every 3 Months
+583;40;Male;Colorado;Quarterly
+584;25;Male;California;Monthly
+585;70;Male;Indiana;Monthly
+586;69;Male;South Carolina;Every 3 Months
+587;45;Male;Wisconsin;Annually
+588;29;Male;Washington;Every 3 Months
+589;47;Male;South Dakota;Quarterly
+590;28;Male;Minnesota;Annually
+591;64;Male;Alaska;Fortnightly
+592;47;Male;Kentucky;Bi-Weekly
+593;60;Male;North Dakota;Every 3 Months
+594;67;Male;Alaska;Every 3 Months
+595;35;Male;Oklahoma;Monthly
+596;30;Male;Delaware;Quarterly
+597;23;Male;Montana;Annually
+598;70;Male;Alaska;Fortnightly
+599;21;Male;California;Every 3 Months
+600;51;Male;Massachusetts;Every 3 Months
+601;22;Male;South Carolina;Monthly
+602;32;Male;West Virginia;Fortnightly
+603;37;Male;Oregon;Every 3 Months
+604;31;Male;Massachusetts;Every 3 Months
+605;44;Male;West Virginia;Every 3 Months
+606;40;Male;California;Weekly
+607;27;Male;Colorado;Monthly
+608;47;Male;Indiana;Monthly
+609;41;Male;Delaware;Every 3 Months
+610;51;Male;Ohio;Fortnightly
+611;53;Male;Oklahoma;Every 3 Months
+612;43;Male;California;Monthly
+613;67;Male;New Hampshire;Quarterly
+614;61;Male;Pennsylvania;Bi-Weekly
+615;68;Male;Idaho;Bi-Weekly
+616;67;Male;Maryland;Annually
+617;29;Male;Pennsylvania;Every 3 Months
+618;50;Male;Colorado;Quarterly
+619;61;Male;Indiana;Bi-Weekly
+620;19;Male;Nebraska;Every 3 Months
+621;33;Male;Rhode Island;Every 3 Months
+622;51;Male;Kansas;Weekly
+623;69;Male;Georgia;Fortnightly
+624;19;Male;Nevada;Bi-Weekly
+625;55;Male;South Carolina;Annually
+626;49;Male;Delaware;Weekly
+627;31;Male;New Hampshire;Annually
+628;42;Male;Oregon;Monthly
+629;69;Male;Massachusetts;Monthly
+630;26;Male;Vermont;Annually
+631;41;Male;Mississippi;Annually
+632;55;Male;Washington;Fortnightly
+633;35;Male;Wyoming;Fortnightly
+634;66;Male;Minnesota;Quarterly
+635;36;Male;Ohio;Weekly
+636;27;Male;South Carolina;Quarterly
+637;41;Male;Wisconsin;Every 3 Months
+638;21;Male;Tennessee;Fortnightly
+639;53;Male;Maryland;Monthly
+640;54;Male;Mississippi;Annually
+641;53;Male;Minnesota;Fortnightly
+642;47;Male;Alaska;Every 3 Months
+643;64;Male;Arkansas;Bi-Weekly
+644;18;Male;Oregon;Every 3 Months
+645;68;Male;Louisiana;Weekly
+646;62;Male;Oklahoma;Bi-Weekly
+647;51;Male;Indiana;Bi-Weekly
+648;54;Male;Mississippi;Fortnightly
+649;22;Male;Michigan;Weekly
+650;53;Male;Delaware;Every 3 Months
+651;34;Male;Florida;Annually
+652;32;Male;Arkansas;Fortnightly
+653;64;Male;Minnesota;Weekly
+654;20;Male;North Dakota;Fortnightly
+655;24;Male;California;Annually
+656;20;Male;Mississippi;Monthly
+657;42;Male;Pennsylvania;Quarterly
+658;48;Male;Arizona;Quarterly
+659;62;Male;Louisiana;Weekly
+660;62;Male;Virginia;Weekly
+661;50;Male;Montana;Quarterly
+662;57;Male;Iowa;Quarterly
+663;24;Male;Illinois;Bi-Weekly
+664;59;Male;Alaska;Monthly
+665;63;Male;Colorado;Bi-Weekly
+666;41;Male;New Mexico;Annually
+667;35;Male;Colorado;Quarterly
+668;34;Male;Arizona;Quarterly
+669;49;Male;Hawaii;Monthly
+670;43;Male;Illinois;Bi-Weekly
+671;63;Male;Louisiana;Bi-Weekly
+672;38;Male;Iowa;Weekly
+673;59;Male;Washington;Quarterly
+674;35;Male;Oklahoma;Bi-Weekly
+675;48;Male;Washington;Annually
+676;64;Male;Arkansas;Annually
+677;28;Male;Connecticut;Bi-Weekly
+678;60;Male;Washington;Annually
+679;27;Male;Maine;Every 3 Months
+680;56;Male;Michigan;Fortnightly
+681;58;Male;Tennessee;Annually
+682;30;Male;Louisiana;Every 3 Months
+683;23;Male;Missouri;Bi-Weekly
+684;33;Male;Michigan;Monthly
+685;63;Male;Alabama;Monthly
+686;70;Male;Massachusetts;Fortnightly
+687;70;Male;Indiana;Fortnightly
+688;19;Male;West Virginia;Quarterly
+689;25;Male;Michigan;Monthly
+690;19;Male;Pennsylvania;Every 3 Months
+691;25;Male;Alaska;Weekly
+692;60;Male;Massachusetts;Bi-Weekly
+693;35;Male;North Dakota;Every 3 Months
+694;46;Male;Vermont;Every 3 Months
+695;41;Male;Kentucky;Every 3 Months
+696;30;Male;Nevada;Every 3 Months
+697;44;Male;Utah;Monthly
+698;61;Male;North Dakota;Quarterly
+699;55;Male;Iowa;Weekly
+700;50;Male;Connecticut;Weekly
+701;57;Male;Wisconsin;Monthly
+702;51;Male;Idaho;Every 3 Months
+703;18;Male;Montana;Weekly
+704;63;Male;Connecticut;Weekly
+705;34;Male;Idaho;Annually
+706;25;Male;Arkansas;Quarterly
+707;46;Male;Iowa;Weekly
+708;59;Male;Louisiana;Annually
+709;37;Male;Kentucky;Fortnightly
+710;49;Male;Massachusetts;Monthly
+711;22;Male;Virginia;Fortnightly
+712;64;Male;New Hampshire;Bi-Weekly
+713;42;Male;New Hampshire;Quarterly
+714;37;Male;Oregon;Bi-Weekly
+715;26;Male;South Dakota;Fortnightly
+716;33;Male;Delaware;Quarterly
+717;30;Male;Missouri;Bi-Weekly
+718;21;Male;Alaska;Every 3 Months
+719;22;Male;Florida;Annually
+720;63;Male;Mississippi;Bi-Weekly
+721;33;Male;New Mexico;Weekly
+722;43;Male;California;Every 3 Months
+723;27;Male;Wyoming;Bi-Weekly
+724;35;Male;Missouri;Monthly
+725;37;Male;New Hampshire;Every 3 Months
+726;61;Male;Texas;Fortnightly
+727;32;Male;North Dakota;Every 3 Months
+728;62;Male;Arkansas;Every 3 Months
+729;29;Male;Nebraska;Every 3 Months
+730;41;Male;Minnesota;Every 3 Months
+731;48;Male;Massachusetts;Fortnightly
+732;43;Male;Arkansas;Fortnightly
+733;34;Male;New Hampshire;Bi-Weekly
+734;45;Male;Rhode Island;Bi-Weekly
+735;65;Male;New Jersey;Every 3 Months
+736;61;Male;Montana;Bi-Weekly
+737;18;Male;Colorado;Every 3 Months
+738;47;Male;Nebraska;Annually
+739;56;Male;Minnesota;Quarterly
+740;64;Male;Minnesota;Bi-Weekly
+741;26;Male;South Dakota;Fortnightly
+742;22;Male;West Virginia;Every 3 Months
+743;64;Male;Nevada;Quarterly
+744;21;Male;North Carolina;Weekly
+745;67;Male;Illinois;Bi-Weekly
+746;46;Male;Michigan;Monthly
+747;40;Male;Michigan;Annually
+748;51;Male;Oklahoma;Weekly
+749;35;Male;South Dakota;Quarterly
+750;56;Male;Oklahoma;Quarterly
+751;25;Male;Maryland;Annually
+752;65;Male;Ohio;Monthly
+753;39;Male;Ohio;Every 3 Months
+754;47;Male;Massachusetts;Quarterly
+755;36;Male;North Carolina;Quarterly
+756;66;Male;Florida;Weekly
+757;62;Male;Montana;Fortnightly
+758;41;Male;Minnesota;Quarterly
+759;66;Male;Massachusetts;Every 3 Months
+760;51;Male;Rhode Island;Fortnightly
+761;33;Male;Minnesota;Annually
+762;57;Male;Nevada;Weekly
+763;45;Male;New Mexico;Fortnightly
+764;61;Male;North Carolina;Monthly
+765;55;Male;Virginia;Quarterly
+766;54;Male;Alaska;Quarterly
+767;57;Male;Nevada;Monthly
+768;27;Male;Pennsylvania;Annually
+769;64;Male;Illinois;Weekly
+770;52;Male;Delaware;Monthly
+771;19;Male;Vermont;Annually
+772;22;Male;Hawaii;Fortnightly
+773;18;Male;Illinois;Bi-Weekly
+774;29;Male;California;Bi-Weekly
+775;42;Male;Nevada;Quarterly
+776;49;Male;Kentucky;Monthly
+777;49;Male;Alabama;Every 3 Months
+778;55;Male;Wyoming;Weekly
+779;29;Male;Massachusetts;Annually
+780;60;Male;Utah;Annually
+781;34;Male;New York;Quarterly
+782;30;Male;Vermont;Fortnightly
+783;28;Male;Hawaii;Weekly
+784;63;Male;Louisiana;Fortnightly
+785;31;Male;Alabama;Every 3 Months
+786;46;Male;Louisiana;Fortnightly
+787;70;Male;Indiana;Every 3 Months
+788;53;Male;Michigan;Weekly
+789;50;Male;Rhode Island;Quarterly
+790;33;Male;Idaho;Bi-Weekly
+791;22;Male;Louisiana;Quarterly
+792;50;Male;North Carolina;Fortnightly
+793;34;Male;New Jersey;Weekly
+794;24;Male;Alabama;Monthly
+795;69;Male;Kentucky;Fortnightly
+796;39;Male;New York;Annually
+797;42;Male;Arizona;Annually
+798;42;Male;Maryland;Weekly
+799;29;Male;Alaska;Every 3 Months
+800;55;Male;Nevada;Annually
+801;32;Male;Utah;Every 3 Months
+802;25;Male;New Mexico;Fortnightly
+803;38;Male;Delaware;Weekly
+804;32;Male;Connecticut;Every 3 Months
+805;43;Male;Mississippi;Quarterly
+806;41;Male;Connecticut;Monthly
+807;56;Male;Florida;Quarterly
+808;27;Male;New York;Weekly
+809;46;Male;Wisconsin;Every 3 Months
+810;48;Male;South Carolina;Bi-Weekly
+811;52;Male;South Dakota;Bi-Weekly
+812;18;Male;Illinois;Quarterly
+813;64;Male;Alaska;Weekly
+814;54;Male;Montana;Annually
+815;31;Male;Minnesota;Monthly
+816;30;Male;West Virginia;Bi-Weekly
+817;26;Male;Illinois;Monthly
+818;25;Male;Nevada;Fortnightly
+819;59;Male;Idaho;Monthly
+820;55;Male;Colorado;Quarterly
+821;56;Male;Louisiana;Monthly
+822;62;Male;Vermont;Bi-Weekly
+823;35;Male;Mississippi;Annually
+824;51;Male;Georgia;Quarterly
+825;61;Male;Georgia;Quarterly
+826;27;Male;Nebraska;Monthly
+827;54;Male;Massachusetts;Weekly
+828;31;Male;Colorado;Fortnightly
+829;24;Male;Nevada;Bi-Weekly
+830;42;Male;Idaho;Fortnightly
+831;41;Male;Wyoming;Annually
+832;66;Male;Washington;Every 3 Months
+833;58;Male;California;Bi-Weekly
+834;43;Male;Oklahoma;Annually
+835;52;Male;Nevada;Weekly
+836;35;Male;Maryland;Weekly
+837;23;Male;West Virginia;Bi-Weekly
+838;25;Male;Illinois;Every 3 Months
+839;33;Male;Kentucky;Annually
+840;48;Male;Illinois;Every 3 Months
+841;42;Male;Alabama;Weekly
+842;55;Male;Texas;Fortnightly
+843;59;Male;Missouri;Weekly
+844;65;Male;Pennsylvania;Weekly
+845;59;Male;Missouri;Bi-Weekly
+846;31;Male;Michigan;Monthly
+847;49;Male;Kentucky;Quarterly
+848;53;Male;New Jersey;Monthly
+849;48;Male;Delaware;Bi-Weekly
+850;23;Male;Missouri;Quarterly
+851;68;Male;Connecticut;Monthly
+852;35;Male;Massachusetts;Monthly
+853;34;Male;Florida;Every 3 Months
+854;62;Male;Delaware;Monthly
+855;21;Male;California;Monthly
+856;70;Male;Oregon;Quarterly
+857;55;Male;Alaska;Fortnightly
+858;43;Male;Missouri;Every 3 Months
+859;19;Male;Oklahoma;Weekly
+860;47;Male;Wisconsin;Monthly
+861;26;Male;South Carolina;Monthly
+862;46;Male;Virginia;Every 3 Months
+863;19;Male;Arkansas;Fortnightly
+864;49;Male;Vermont;Fortnightly
+865;51;Male;Kentucky;Annually
+866;64;Male;Colorado;Annually
+867;67;Male;New Mexico;Bi-Weekly
+868;37;Male;Colorado;Fortnightly
+869;40;Male;North Carolina;Every 3 Months
+870;38;Male;New Hampshire;Weekly
+871;66;Male;West Virginia;Bi-Weekly
+872;47;Male;Hawaii;Quarterly
+873;56;Male;North Dakota;Quarterly
+874;51;Male;Mississippi;Quarterly
+875;25;Male;Maine;Every 3 Months
+876;37;Male;North Dakota;Every 3 Months
+877;41;Male;Nebraska;Weekly
+878;64;Male;Nebraska;Every 3 Months
+879;23;Male;Tennessee;Weekly
+880;62;Male;Wyoming;Quarterly
+881;39;Male;Nevada;Monthly
+882;52;Male;South Carolina;Annually
+883;50;Male;Virginia;Every 3 Months
+884;28;Male;Pennsylvania;Monthly
+885;67;Male;Hawaii;Weekly
+886;41;Male;Ohio;Every 3 Months
+887;19;Male;Utah;Monthly
+888;70;Male;Minnesota;Fortnightly
+889;49;Male;New Hampshire;Annually
+890;59;Male;Arizona;Weekly
+891;52;Male;New York;Monthly
+892;20;Male;Pennsylvania;Every 3 Months
+893;31;Male;New Mexico;Monthly
+894;33;Male;Nebraska;Monthly
+895;44;Male;Wyoming;Quarterly
+896;40;Male;Mississippi;Quarterly
+897;69;Male;Arkansas;Fortnightly
+898;29;Male;Illinois;Weekly
+899;54;Male;Nevada;Every 3 Months
+900;65;Male;Rhode Island;Annually
+901;54;Male;West Virginia;Quarterly
+902;60;Male;Missouri;Monthly
+903;43;Male;Kentucky;Monthly
+904;44;Male;Washington;Quarterly
+905;69;Male;Alaska;Every 3 Months
+906;46;Male;Mississippi;Annually
+907;41;Male;South Carolina;Bi-Weekly
+908;32;Male;Missouri;Bi-Weekly
+909;26;Male;New Jersey;Every 3 Months
+910;61;Male;Louisiana;Weekly
+911;49;Male;South Carolina;Monthly
+912;53;Male;Vermont;Quarterly
+913;24;Male;Arkansas;Monthly
+914;37;Male;Utah;Every 3 Months
+915;43;Male;Washington;Every 3 Months
+916;31;Male;Rhode Island;Fortnightly
+917;49;Male;Illinois;Monthly
+918;69;Male;Missouri;Quarterly
+919;65;Male;North Carolina;Fortnightly
+920;41;Male;Massachusetts;Bi-Weekly
+921;37;Male;Arkansas;Weekly
+922;70;Male;South Dakota;Weekly
+923;63;Male;Georgia;Monthly
+924;55;Male;Arkansas;Weekly
+925;52;Male;Kansas;Quarterly
+926;22;Male;Arizona;Monthly
+927;54;Male;Massachusetts;Bi-Weekly
+928;28;Male;New Mexico;Bi-Weekly
+929;67;Male;Arkansas;Every 3 Months
+930;59;Male;Nebraska;Fortnightly
+931;26;Male;Hawaii;Bi-Weekly
+932;24;Male;Nebraska;Fortnightly
+933;62;Male;Indiana;Bi-Weekly
+934;70;Male;Colorado;Monthly
+935;45;Male;Oregon;Monthly
+936;58;Male;Ohio;Fortnightly
+937;31;Male;Maine;Weekly
+938;32;Male;Iowa;Quarterly
+939;36;Male;Wisconsin;Fortnightly
+940;25;Male;New York;Monthly
+941;48;Male;Colorado;Every 3 Months
+942;39;Male;Illinois;Every 3 Months
+943;26;Male;Arizona;Bi-Weekly
+944;32;Male;Oklahoma;Fortnightly
+945;54;Male;Indiana;Bi-Weekly
+946;38;Male;Minnesota;Every 3 Months
+947;46;Male;Pennsylvania;Quarterly
+948;57;Male;Indiana;Every 3 Months
+949;49;Male;Alabama;Every 3 Months
+950;33;Male;Montana;Monthly
+951;54;Male;New Mexico;Quarterly
+952;47;Male;Alaska;Monthly
+953;36;Male;Idaho;Monthly
+954;68;Male;Utah;Quarterly
+955;60;Male;Louisiana;Every 3 Months
+956;55;Male;Mississippi;Monthly
+957;29;Male;Mississippi;Quarterly
+958;38;Male;Indiana;Quarterly
+959;70;Male;Washington;Bi-Weekly
+960;36;Male;Nevada;Fortnightly
+961;18;Male;Louisiana;Quarterly
+962;62;Male;Pennsylvania;Quarterly
+963;29;Male;Michigan;Fortnightly
+964;21;Male;South Carolina;Weekly
+965;42;Male;Arizona;Bi-Weekly
+966;43;Male;Delaware;Annually
+967;58;Male;Kentucky;Annually
+968;27;Male;Georgia;Weekly
+969;57;Male;North Carolina;Quarterly
+970;40;Male;California;Monthly
+971;45;Male;California;Monthly
+972;47;Male;Indiana;Weekly
+973;61;Male;Colorado;Weekly
+974;60;Male;Colorado;Quarterly
+975;69;Male;North Carolina;Monthly
+976;58;Male;Washington;Weekly
+977;34;Male;Florida;Every 3 Months
+978;20;Male;Washington;Bi-Weekly
+979;56;Male;Colorado;Weekly
+980;64;Male;New Hampshire;Monthly
+981;56;Male;Maryland;Every 3 Months
+982;27;Male;Maryland;Quarterly
+983;35;Male;Texas;Monthly
+984;24;Male;New Mexico;Bi-Weekly
+985;26;Male;Utah;Bi-Weekly
+986;32;Male;West Virginia;Annually
+987;54;Male;Connecticut;Monthly
+988;62;Male;West Virginia;Weekly
+989;50;Male;Ohio;Fortnightly
+990;70;Male;Texas;Monthly
+991;48;Male;Washington;Weekly
+992;20;Male;Wisconsin;Bi-Weekly
+993;46;Male;Louisiana;Weekly
+994;51;Male;Iowa;Weekly
+995;53;Male;New York;Monthly
+996;44;Male;Idaho;Weekly
+997;29;Male;Delaware;Quarterly
+998;64;Male;Kentucky;Fortnightly
+999;51;Male;Connecticut;Bi-Weekly
+1000;50;Male;New Mexico;Monthly
+1001;43;Male;Georgia;Bi-Weekly
+1002;61;Male;Washington;Fortnightly
+1003;55;Male;North Dakota;Bi-Weekly
+1004;56;Male;Ohio;Bi-Weekly
+1005;33;Male;Tennessee;Annually
+1006;43;Male;New York;Bi-Weekly
+1007;21;Male;Michigan;Quarterly
+1008;58;Male;Georgia;Annually
+1009;41;Male;New Mexico;Annually
+1010;39;Male;Louisiana;Annually
+1011;54;Male;South Dakota;Fortnightly
+1012;43;Male;Montana;Fortnightly
+1013;28;Male;New Mexico;Annually
+1014;59;Male;South Carolina;Bi-Weekly
+1015;28;Male;Ohio;Fortnightly
+1016;68;Male;North Carolina;Weekly
+1017;20;Male;Idaho;Every 3 Months
+1018;21;Male;Oklahoma;Annually
+1019;50;Male;Georgia;Weekly
+1020;32;Male;Kentucky;Bi-Weekly
+1021;24;Male;Delaware;Annually
+1022;55;Male;Massachusetts;Weekly
+1023;61;Male;Nebraska;Annually
+1024;61;Male;Maine;Every 3 Months
+1025;28;Male;Pennsylvania;Quarterly
+1026;60;Male;Nebraska;Annually
+1027;49;Male;Virginia;Bi-Weekly
+1028;33;Male;Ohio;Monthly
+1029;45;Male;Nebraska;Fortnightly
+1030;29;Male;Ohio;Bi-Weekly
+1031;58;Male;Kentucky;Quarterly
+1032;22;Male;Tennessee;Quarterly
+1033;55;Male;Maine;Quarterly
+1034;19;Male;Montana;Quarterly
+1035;68;Male;Maryland;Weekly
+1036;61;Male;Georgia;Annually
+1037;68;Male;Hawaii;Monthly
+1038;52;Male;Rhode Island;Quarterly
+1039;41;Male;Nebraska;Weekly
+1040;29;Male;Michigan;Monthly
+1041;68;Male;North Carolina;Fortnightly
+1042;36;Male;Minnesota;Fortnightly
+1043;55;Male;Maryland;Weekly
+1044;28;Male;Hawaii;Fortnightly
+1045;39;Male;Oregon;Every 3 Months
+1046;54;Male;New Mexico;Bi-Weekly
+1047;40;Male;Illinois;Annually
+1048;31;Male;Utah;Fortnightly
+1049;30;Male;Maine;Fortnightly
+1050;45;Male;Virginia;Quarterly
+1051;48;Male;Florida;Monthly
+1052;45;Male;Ohio;Annually
+1053;60;Male;Virginia;Fortnightly
+1054;59;Male;Kansas;Bi-Weekly
+1055;18;Male;Arkansas;Quarterly
+1056;70;Male;Massachusetts;Annually
+1057;20;Male;Idaho;Fortnightly
+1058;65;Male;Wisconsin;Weekly
+1059;29;Male;New Mexico;Every 3 Months
+1060;22;Male;North Carolina;Monthly
+1061;27;Male;Iowa;Every 3 Months
+1062;36;Male;Idaho;Every 3 Months
+1063;59;Male;Ohio;Every 3 Months
+1064;62;Male;Alabama;Monthly
+1065;34;Male;Wyoming;Every 3 Months
+1066;59;Male;Alabama;Every 3 Months
+1067;49;Male;Mississippi;Bi-Weekly
+1068;18;Male;Pennsylvania;Quarterly
+1069;55;Male;Wyoming;Weekly
+1070;38;Male;Maryland;Every 3 Months
+1071;50;Male;North Carolina;Weekly
+1072;61;Male;Pennsylvania;Monthly
+1073;48;Male;Idaho;Fortnightly
+1074;22;Male;California;Monthly
+1075;48;Male;Tennessee;Fortnightly
+1076;57;Male;Missouri;Bi-Weekly
+1077;33;Male;North Dakota;Bi-Weekly
+1078;58;Male;West Virginia;Quarterly
+1079;37;Male;Arizona;Fortnightly
+1080;18;Male;Oklahoma;Monthly
+1081;65;Male;Pennsylvania;Every 3 Months
+1082;62;Male;Idaho;Annually
+1083;54;Male;South Carolina;Quarterly
+1084;35;Male;Washington;Weekly
+1085;34;Male;Arkansas;Quarterly
+1086;25;Male;Utah;Fortnightly
+1087;53;Male;Alaska;Bi-Weekly
+1088;45;Male;West Virginia;Monthly
+1089;49;Male;Louisiana;Weekly
+1090;40;Male;Arizona;Bi-Weekly
+1091;38;Male;Connecticut;Fortnightly
+1092;44;Male;North Carolina;Fortnightly
+1093;68;Male;South Dakota;Quarterly
+1094;60;Male;Delaware;Every 3 Months
+1095;25;Male;Connecticut;Quarterly
+1096;19;Male;Tennessee;Quarterly
+1097;57;Male;New Hampshire;Annually
+1098;58;Male;Vermont;Weekly
+1099;49;Male;Idaho;Weekly
+1100;19;Male;North Carolina;Fortnightly
+1101;50;Male;Nevada;Weekly
+1102;30;Male;Delaware;Fortnightly
+1103;52;Male;Texas;Fortnightly
+1104;35;Male;Tennessee;Bi-Weekly
+1105;35;Male;Delaware;Quarterly
+1106;33;Male;Massachusetts;Every 3 Months
+1107;52;Male;Minnesota;Fortnightly
+1108;69;Male;Texas;Weekly
+1109;27;Male;Nebraska;Fortnightly
+1110;66;Male;Oklahoma;Weekly
+1111;28;Male;Texas;Bi-Weekly
+1112;22;Male;New York;Bi-Weekly
+1113;69;Male;Washington;Quarterly
+1114;28;Male;Maryland;Bi-Weekly
+1115;55;Male;New Hampshire;Every 3 Months
+1116;30;Male;New York;Weekly
+1117;67;Male;Hawaii;Fortnightly
+1118;25;Male;California;Monthly
+1119;49;Male;Indiana;Every 3 Months
+1120;34;Male;Louisiana;Weekly
+1121;22;Male;Pennsylvania;Monthly
+1122;63;Male;Florida;Quarterly
+1123;70;Male;North Carolina;Annually
+1124;36;Male;Massachusetts;Monthly
+1125;42;Male;Iowa;Quarterly
+1126;27;Male;North Dakota;Weekly
+1127;23;Male;Iowa;Fortnightly
+1128;50;Male;Delaware;Monthly
+1129;56;Male;New York;Monthly
+1130;37;Male;New Hampshire;Fortnightly
+1131;67;Male;Kentucky;Bi-Weekly
+1132;67;Male;Illinois;Monthly
+1133;50;Male;North Carolina;Fortnightly
+1134;36;Male;Connecticut;Weekly
+1135;62;Male;Wisconsin;Every 3 Months
+1136;65;Male;Massachusetts;Quarterly
+1137;23;Male;Illinois;Monthly
+1138;46;Male;New Mexico;Every 3 Months
+1139;18;Male;Iowa;Fortnightly
+1140;58;Male;Alabama;Bi-Weekly
+1141;31;Male;Maryland;Every 3 Months
+1142;39;Male;Ohio;Fortnightly
+1143;69;Male;Ohio;Bi-Weekly
+1144;68;Male;Nevada;Quarterly
+1145;41;Male;South Carolina;Fortnightly
+1146;31;Male;Nevada;Every 3 Months
+1147;48;Male;Wisconsin;Every 3 Months
+1148;59;Male;Tennessee;Annually
+1149;34;Male;Florida;Fortnightly
+1150;21;Male;Georgia;Annually
+1151;29;Male;Kentucky;Bi-Weekly
+1152;41;Male;Ohio;Weekly
+1153;62;Male;Connecticut;Every 3 Months
+1154;27;Male;Idaho;Quarterly
+1155;49;Male;Georgia;Bi-Weekly
+1156;67;Male;Tennessee;Quarterly
+1157;20;Male;Hawaii;Every 3 Months
+1158;37;Male;Maryland;Quarterly
+1159;69;Male;Nevada;Annually
+1160;66;Male;New Hampshire;Every 3 Months
+1161;37;Male;North Dakota;Bi-Weekly
+1162;63;Male;Oklahoma;Monthly
+1163;47;Male;North Carolina;Weekly
+1164;26;Male;Tennessee;Monthly
+1165;68;Male;Montana;Quarterly
+1166;51;Male;Wisconsin;Every 3 Months
+1167;48;Male;Connecticut;Fortnightly
+1168;60;Male;New Jersey;Quarterly
+1169;68;Male;Mississippi;Fortnightly
+1170;25;Male;Wyoming;Annually
+1171;57;Male;Illinois;Bi-Weekly
+1172;41;Male;Louisiana;Annually
+1173;59;Male;Oregon;Bi-Weekly
+1174;44;Male;South Dakota;Bi-Weekly
+1175;42;Male;Michigan;Bi-Weekly
+1176;35;Male;New Jersey;Quarterly
+1177;36;Male;Oregon;Quarterly
+1178;54;Male;Iowa;Monthly
+1179;37;Male;South Carolina;Annually
+1180;20;Male;Indiana;Annually
+1181;23;Male;Oregon;Monthly
+1182;61;Male;New York;Quarterly
+1183;37;Male;New Mexico;Quarterly
+1184;23;Male;Louisiana;Weekly
+1185;63;Male;South Carolina;Annually
+1186;47;Male;Maine;Monthly
+1187;63;Male;Indiana;Annually
+1188;56;Male;Iowa;Every 3 Months
+1189;68;Male;Mississippi;Weekly
+1190;64;Male;Arkansas;Annually
+1191;62;Male;South Carolina;Weekly
+1192;34;Male;Indiana;Quarterly
+1193;49;Male;Florida;Quarterly
+1194;40;Male;Alaska;Fortnightly
+1195;50;Male;New York;Fortnightly
+1196;25;Male;Texas;Monthly
+1197;30;Male;North Dakota;Bi-Weekly
+1198;54;Male;Vermont;Annually
+1199;40;Male;New Jersey;Annually
+1200;49;Male;Maryland;Weekly
+1201;27;Male;Connecticut;Weekly
+1202;27;Male;Illinois;Fortnightly
+1203;48;Male;Maryland;Every 3 Months
+1204;40;Male;Minnesota;Annually
+1205;67;Male;Florida;Every 3 Months
+1206;52;Male;California;Fortnightly
+1207;22;Male;Mississippi;Every 3 Months
+1208;62;Male;Washington;Every 3 Months
+1209;20;Male;Wisconsin;Annually
+1210;41;Male;Pennsylvania;Monthly
+1211;34;Male;Missouri;Quarterly
+1212;23;Male;Oklahoma;Every 3 Months
+1213;32;Male;Pennsylvania;Weekly
+1214;68;Male;Kentucky;Every 3 Months
+1215;30;Male;Vermont;Every 3 Months
+1216;66;Male;Oregon;Every 3 Months
+1217;62;Male;Utah;Every 3 Months
+1218;50;Male;Nebraska;Every 3 Months
+1219;55;Male;Pennsylvania;Every 3 Months
+1220;19;Male;Vermont;Bi-Weekly
+1221;67;Male;Kentucky;Quarterly
+1222;18;Male;Iowa;Quarterly
+1223;58;Male;Indiana;Annually
+1224;69;Male;Kansas;Weekly
+1225;62;Male;Illinois;Weekly
+1226;28;Male;North Carolina;Weekly
+1227;53;Male;Ohio;Bi-Weekly
+1228;27;Male;Illinois;Bi-Weekly
+1229;55;Male;Indiana;Annually
+1230;34;Male;Kansas;Annually
+1231;25;Male;Illinois;Monthly
+1232;66;Male;Pennsylvania;Fortnightly
+1233;57;Male;New York;Every 3 Months
+1234;46;Male;Utah;Every 3 Months
+1235;38;Male;New Jersey;Bi-Weekly
+1236;23;Male;Idaho;Every 3 Months
+1237;42;Male;New Mexico;Every 3 Months
+1238;25;Male;Michigan;Quarterly
+1239;55;Male;Wyoming;Fortnightly
+1240;62;Male;New Jersey;Every 3 Months
+1241;41;Male;New Jersey;Annually
+1242;58;Male;Hawaii;Weekly
+1243;56;Male;Nevada;Quarterly
+1244;25;Male;New Hampshire;Annually
+1245;70;Male;Indiana;Monthly
+1246;42;Male;New York;Weekly
+1247;27;Male;Louisiana;Monthly
+1248;65;Male;Virginia;Bi-Weekly
+1249;62;Male;Wisconsin;Annually
+1250;62;Male;Oregon;Fortnightly
+1251;52;Male;New Hampshire;Monthly
+1252;56;Male;Indiana;Monthly
+1253;28;Male;Massachusetts;Quarterly
+1254;39;Male;Montana;Annually
+1255;54;Male;California;Bi-Weekly
+1256;30;Male;Indiana;Fortnightly
+1257;45;Male;West Virginia;Fortnightly
+1258;68;Male;Minnesota;Every 3 Months
+1259;47;Male;Ohio;Every 3 Months
+1260;68;Male;Minnesota;Monthly
+1261;63;Male;Virginia;Quarterly
+1262;20;Male;Connecticut;Fortnightly
+1263;29;Male;Tennessee;Monthly
+1264;41;Male;Delaware;Bi-Weekly
+1265;52;Male;Vermont;Bi-Weekly
+1266;32;Male;Louisiana;Weekly
+1267;20;Male;North Dakota;Every 3 Months
+1268;47;Male;Oregon;Weekly
+1269;23;Male;Idaho;Bi-Weekly
+1270;43;Male;Vermont;Quarterly
+1271;67;Male;West Virginia;Annually
+1272;70;Male;Kentucky;Annually
+1273;35;Male;Wisconsin;Monthly
+1274;41;Male;Mississippi;Every 3 Months
+1275;54;Male;Missouri;Quarterly
+1276;55;Male;Arkansas;Monthly
+1277;51;Male;Wyoming;Weekly
+1278;19;Male;Rhode Island;Quarterly
+1279;28;Male;Utah;Fortnightly
+1280;63;Male;Maryland;Annually
+1281;30;Male;Georgia;Every 3 Months
+1282;29;Male;New Jersey;Bi-Weekly
+1283;24;Male;New Hampshire;Monthly
+1284;69;Male;Oregon;Every 3 Months
+1285;65;Male;Arkansas;Fortnightly
+1286;64;Male;North Carolina;Fortnightly
+1287;40;Male;West Virginia;Fortnightly
+1288;24;Male;Utah;Monthly
+1289;66;Male;South Dakota;Bi-Weekly
+1290;35;Male;New Hampshire;Weekly
+1291;67;Male;Maryland;Annually
+1292;69;Male;South Dakota;Fortnightly
+1293;26;Male;Kentucky;Annually
+1294;23;Male;Florida;Annually
+1295;27;Male;Texas;Every 3 Months
+1296;30;Male;New Mexico;Weekly
+1297;48;Male;South Dakota;Bi-Weekly
+1298;44;Male;New Jersey;Annually
+1299;29;Male;Indiana;Fortnightly
+1300;29;Male;Louisiana;Bi-Weekly
+1301;67;Male;West Virginia;Every 3 Months
+1302;42;Male;Maine;Weekly
+1303;23;Male;Idaho;Monthly
+1304;34;Male;New York;Annually
+1305;64;Male;Montana;Every 3 Months
+1306;31;Male;Mississippi;Every 3 Months
+1307;54;Male;Alaska;Annually
+1308;23;Male;Missouri;Annually
+1309;59;Male;Rhode Island;Every 3 Months
+1310;32;Male;Hawaii;Quarterly
+1311;43;Male;South Carolina;Every 3 Months
+1312;32;Male;Tennessee;Annually
+1313;66;Male;Missouri;Monthly
+1314;70;Male;Missouri;Bi-Weekly
+1315;42;Male;Missouri;Annually
+1316;56;Male;Mississippi;Quarterly
+1317;28;Male;Arkansas;Bi-Weekly
+1318;28;Male;Kentucky;Monthly
+1319;52;Male;Connecticut;Bi-Weekly
+1320;65;Male;Oklahoma;Weekly
+1321;56;Male;California;Annually
+1322;59;Male;Missouri;Every 3 Months
+1323;23;Male;Washington;Quarterly
+1324;58;Male;New York;Every 3 Months
+1325;39;Male;Indiana;Fortnightly
+1326;28;Male;Oregon;Monthly
+1327;40;Male;Texas;Monthly
+1328;52;Male;Florida;Weekly
+1329;37;Male;Rhode Island;Weekly
+1330;70;Male;Texas;Every 3 Months
+1331;30;Male;Vermont;Bi-Weekly
+1332;38;Male;Maryland;Bi-Weekly
+1333;66;Male;Alaska;Quarterly
+1334;29;Male;Idaho;Quarterly
+1335;46;Male;West Virginia;Monthly
+1336;56;Male;Nevada;Weekly
+1337;23;Male;Oregon;Fortnightly
+1338;37;Male;Tennessee;Bi-Weekly
+1339;56;Male;Alabama;Fortnightly
+1340;36;Male;Indiana;Every 3 Months
+1341;40;Male;Idaho;Every 3 Months
+1342;26;Male;Rhode Island;Quarterly
+1343;57;Male;Arizona;Monthly
+1344;68;Male;Florida;Monthly
+1345;56;Male;New York;Annually
+1346;40;Male;Nebraska;Weekly
+1347;44;Male;Mississippi;Bi-Weekly
+1348;44;Male;Vermont;Monthly
+1349;19;Male;Nebraska;Fortnightly
+1350;21;Male;South Carolina;Bi-Weekly
+1351;31;Male;Delaware;Every 3 Months
+1352;30;Male;Vermont;Quarterly
+1353;65;Male;Indiana;Bi-Weekly
+1354;39;Male;Oregon;Every 3 Months
+1355;64;Male;Maryland;Quarterly
+1356;59;Male;Florida;Bi-Weekly
+1357;49;Male;Indiana;Annually
+1358;24;Male;Texas;Quarterly
+1359;19;Male;Nebraska;Every 3 Months
+1360;27;Male;North Carolina;Fortnightly
+1361;56;Male;Alabama;Annually
+1362;49;Male;Alabama;Monthly
+1363;41;Male;Colorado;Weekly
+1364;36;Male;Wisconsin;Quarterly
+1365;68;Male;Delaware;Every 3 Months
+1366;28;Male;Indiana;Fortnightly
+1367;45;Male;Iowa;Fortnightly
+1368;60;Male;Iowa;Quarterly
+1369;21;Male;Wisconsin;Weekly
+1370;32;Male;Iowa;Fortnightly
+1371;27;Male;Montana;Every 3 Months
+1372;40;Male;Mississippi;Monthly
+1373;64;Male;Michigan;Bi-Weekly
+1374;18;Male;Virginia;Quarterly
+1375;22;Male;New York;Quarterly
+1376;42;Male;Maine;Annually
+1377;57;Male;New Jersey;Annually
+1378;33;Male;Maryland;Monthly
+1379;37;Male;Kentucky;Weekly
+1380;21;Male;Minnesota;Bi-Weekly
+1381;51;Male;Massachusetts;Fortnightly
+1382;30;Male;Illinois;Quarterly
+1383;68;Male;Michigan;Quarterly
+1384;36;Male;Wisconsin;Monthly
+1385;46;Male;Alaska;Weekly
+1386;41;Male;Mississippi;Bi-Weekly
+1387;68;Male;Oregon;Quarterly
+1388;21;Male;Maryland;Monthly
+1389;62;Male;Arkansas;Quarterly
+1390;59;Male;Illinois;Fortnightly
+1391;25;Male;Arkansas;Weekly
+1392;53;Male;Mississippi;Annually
+1393;31;Male;Arkansas;Every 3 Months
+1394;46;Male;Idaho;Fortnightly
+1395;26;Male;Iowa;Weekly
+1396;47;Male;West Virginia;Bi-Weekly
+1397;37;Male;Wisconsin;Monthly
+1398;55;Male;Massachusetts;Annually
+1399;30;Male;Texas;Weekly
+1400;19;Male;Nebraska;Annually
+1401;36;Male;Nevada;Every 3 Months
+1402;23;Male;Indiana;Weekly
+1403;62;Male;North Dakota;Monthly
+1404;26;Male;Georgia;Bi-Weekly
+1405;36;Male;New Mexico;Weekly
+1406;33;Male;New Hampshire;Monthly
+1407;32;Male;Washington;Monthly
+1408;56;Male;Nevada;Annually
+1409;58;Male;Maine;Weekly
+1410;34;Male;Idaho;Fortnightly
+1411;61;Male;Tennessee;Annually
+1412;48;Male;Louisiana;Quarterly
+1413;25;Male;Michigan;Annually
+1414;51;Male;New Hampshire;Quarterly
+1415;29;Male;Minnesota;Bi-Weekly
+1416;54;Male;Illinois;Every 3 Months
+1417;48;Male;Idaho;Quarterly
+1418;62;Male;Montana;Fortnightly
+1419;18;Male;Alabama;Every 3 Months
+1420;43;Male;Montana;Quarterly
+1421;22;Male;California;Every 3 Months
+1422;68;Male;Pennsylvania;Fortnightly
+1423;44;Male;Texas;Bi-Weekly
+1424;51;Male;Michigan;Every 3 Months
+1425;66;Male;Connecticut;Every 3 Months
+1426;59;Male;Wyoming;Annually
+1427;60;Male;Michigan;Every 3 Months
+1428;31;Male;South Dakota;Annually
+1429;20;Male;North Dakota;Quarterly
+1430;24;Male;Maryland;Every 3 Months
+1431;48;Male;Michigan;Fortnightly
+1432;39;Male;South Dakota;Quarterly
+1433;34;Male;Florida;Quarterly
+1434;70;Male;Minnesota;Weekly
+1435;59;Male;New York;Bi-Weekly
+1436;45;Male;Oregon;Weekly
+1437;35;Male;Minnesota;Fortnightly
+1438;69;Male;Montana;Annually
+1439;58;Male;Washington;Monthly
+1440;25;Male;New Mexico;Fortnightly
+1441;27;Male;Arizona;Monthly
+1442;34;Male;Nebraska;Every 3 Months
+1443;53;Male;Idaho;Annually
+1444;58;Male;Idaho;Monthly
+1445;32;Male;Vermont;Quarterly
+1446;64;Male;Arkansas;Annually
+1447;63;Male;Wyoming;Quarterly
+1448;23;Male;New Mexico;Monthly
+1449;64;Male;West Virginia;Every 3 Months
+1450;18;Male;New York;Every 3 Months
+1451;25;Male;Illinois;Quarterly
+1452;54;Male;Utah;Quarterly
+1453;60;Male;Colorado;Quarterly
+1454;36;Male;Virginia;Fortnightly
+1455;66;Male;Georgia;Annually
+1456;60;Male;Alabama;Every 3 Months
+1457;59;Male;Montana;Every 3 Months
+1458;58;Male;Pennsylvania;Fortnightly
+1459;35;Male;Missouri;Weekly
+1460;20;Male;Maine;Fortnightly
+1461;70;Male;Pennsylvania;Bi-Weekly
+1462;54;Male;Oregon;Quarterly
+1463;38;Male;Utah;Quarterly
+1464;54;Male;Oklahoma;Monthly
+1465;33;Male;Montana;Quarterly
+1466;46;Male;Nebraska;Bi-Weekly
+1467;58;Male;Alabama;Annually
+1468;30;Male;Ohio;Fortnightly
+1469;42;Male;Arkansas;Fortnightly
+1470;28;Male;Mississippi;Every 3 Months
+1471;43;Male;California;Every 3 Months
+1472;31;Male;Alaska;Every 3 Months
+1473;39;Male;Indiana;Weekly
+1474;69;Male;Wisconsin;Every 3 Months
+1475;31;Male;New Jersey;Monthly
+1476;44;Male;Rhode Island;Monthly
+1477;39;Male;Wyoming;Monthly
+1478;24;Male;Oregon;Every 3 Months
+1479;28;Male;Washington;Bi-Weekly
+1480;48;Male;Washington;Weekly
+1481;39;Male;New Hampshire;Quarterly
+1482;64;Male;Maryland;Quarterly
+1483;28;Male;Wisconsin;Weekly
+1484;39;Male;Massachusetts;Bi-Weekly
+1485;49;Male;Nebraska;Every 3 Months
+1486;22;Male;Nebraska;Fortnightly
+1487;25;Male;Idaho;Every 3 Months
+1488;40;Male;Arizona;Annually
+1489;23;Male;Hawaii;Weekly
+1490;24;Male;Missouri;Quarterly
+1491;66;Male;Louisiana;Bi-Weekly
+1492;27;Male;Arkansas;Quarterly
+1493;62;Male;North Carolina;Quarterly
+1494;70;Male;North Dakota;Quarterly
+1495;43;Male;Montana;Fortnightly
+1496;45;Male;Rhode Island;Weekly
+1497;63;Male;Idaho;Bi-Weekly
+1498;69;Male;Michigan;Every 3 Months
+1499;59;Male;Illinois;Fortnightly
+1500;19;Male;Georgia;Every 3 Months
+1501;63;Male;Alabama;Monthly
+1502;37;Male;Alaska;Every 3 Months
+1503;37;Male;Massachusetts;Fortnightly
+1504;50;Male;Michigan;Quarterly
+1505;60;Male;Alaska;Monthly
+1506;46;Male;North Dakota;Monthly
+1507;35;Male;South Carolina;Quarterly
+1508;66;Male;Pennsylvania;Annually
+1509;35;Male;Colorado;Every 3 Months
+1510;20;Male;New Hampshire;Annually
+1511;55;Male;Maryland;Annually
+1512;34;Male;Georgia;Weekly
+1513;60;Male;Wisconsin;Bi-Weekly
+1514;22;Male;Texas;Monthly
+1515;26;Male;Utah;Weekly
+1516;39;Male;Indiana;Weekly
+1517;20;Male;Nevada;Bi-Weekly
+1518;57;Male;New Hampshire;Quarterly
+1519;68;Male;New York;Fortnightly
+1520;50;Male;Texas;Weekly
+1521;21;Male;Iowa;Quarterly
+1522;29;Male;Washington;Weekly
+1523;38;Male;Tennessee;Monthly
+1524;54;Male;Georgia;Annually
+1525;22;Male;Massachusetts;Bi-Weekly
+1526;29;Male;Oregon;Fortnightly
+1527;41;Male;Oklahoma;Monthly
+1528;26;Male;Wisconsin;Fortnightly
+1529;69;Male;Oregon;Bi-Weekly
+1530;20;Male;Georgia;Bi-Weekly
+1531;59;Male;New Mexico;Quarterly
+1532;63;Male;Mississippi;Bi-Weekly
+1533;68;Male;Wisconsin;Every 3 Months
+1534;50;Male;New Hampshire;Quarterly
+1535;55;Male;Wyoming;Fortnightly
+1536;36;Male;West Virginia;Monthly
+1537;18;Male;Michigan;Quarterly
+1538;68;Male;Alaska;Annually
+1539;56;Male;Illinois;Bi-Weekly
+1540;32;Male;Hawaii;Every 3 Months
+1541;28;Male;Colorado;Monthly
+1542;24;Male;Illinois;Bi-Weekly
+1543;59;Male;Hawaii;Weekly
+1544;56;Male;Wisconsin;Annually
+1545;30;Male;Arkansas;Bi-Weekly
+1546;48;Male;Delaware;Annually
+1547;60;Male;Oregon;Annually
+1548;46;Male;South Carolina;Quarterly
+1549;69;Male;Maryland;Weekly
+1550;19;Male;Kansas;Every 3 Months
+1551;66;Male;Arkansas;Quarterly
+1552;64;Male;Minnesota;Monthly
+1553;54;Male;New Mexico;Monthly
+1554;27;Male;Delaware;Quarterly
+1555;64;Male;Utah;Bi-Weekly
+1556;43;Male;Ohio;Quarterly
+1557;43;Male;Alabama;Quarterly
+1558;27;Male;South Dakota;Quarterly
+1559;35;Male;New Mexico;Every 3 Months
+1560;43;Male;Oregon;Fortnightly
+1561;57;Male;Oregon;Weekly
+1562;50;Male;Mississippi;Quarterly
+1563;37;Male;Alabama;Bi-Weekly
+1564;68;Male;Kansas;Weekly
+1565;22;Male;California;Every 3 Months
+1566;58;Male;Idaho;Annually
+1567;48;Male;Wyoming;Bi-Weekly
+1568;30;Male;Minnesota;Monthly
+1569;51;Male;Washington;Monthly
+1570;20;Male;Hawaii;Weekly
+1571;30;Male;Missouri;Every 3 Months
+1572;28;Male;Colorado;Fortnightly
+1573;37;Male;Washington;Monthly
+1574;36;Male;North Dakota;Weekly
+1575;18;Male;Minnesota;Bi-Weekly
+1576;52;Male;California;Fortnightly
+1577;56;Male;Michigan;Monthly
+1578;68;Male;Delaware;Fortnightly
+1579;62;Male;California;Quarterly
+1580;35;Male;Oklahoma;Monthly
+1581;65;Male;North Dakota;Annually
+1582;69;Male;Ohio;Quarterly
+1583;28;Male;Hawaii;Monthly
+1584;37;Male;Maryland;Annually
+1585;41;Male;Hawaii;Quarterly
+1586;37;Male;Alabama;Fortnightly
+1587;25;Male;Oklahoma;Weekly
+1588;41;Male;Alabama;Fortnightly
+1589;48;Male;Vermont;Monthly
+1590;42;Male;Ohio;Weekly
+1591;54;Male;Wisconsin;Annually
+1592;18;Male;South Dakota;Annually
+1593;56;Male;Iowa;Every 3 Months
+1594;61;Male;Maryland;Monthly
+1595;40;Male;Colorado;Fortnightly
+1596;34;Male;Wisconsin;Fortnightly
+1597;42;Male;Mississippi;Monthly
+1598;43;Male;Mississippi;Quarterly
+1599;47;Male;California;Bi-Weekly
+1600;48;Male;Delaware;Bi-Weekly
+1601;20;Male;Montana;Weekly
+1602;65;Male;Indiana;Monthly
+1603;54;Male;West Virginia;Fortnightly
+1604;23;Male;Iowa;Bi-Weekly
+1605;18;Male;Maine;Every 3 Months
+1606;70;Male;Connecticut;Bi-Weekly
+1607;55;Male;Kansas;Fortnightly
+1608;49;Male;Vermont;Quarterly
+1609;26;Male;Nebraska;Bi-Weekly
+1610;33;Male;Nevada;Monthly
+1611;20;Male;Tennessee;Annually
+1612;41;Male;Arkansas;Monthly
+1613;18;Male;Wisconsin;Monthly
+1614;26;Male;Illinois;Fortnightly
+1615;30;Male;Kansas;Bi-Weekly
+1616;64;Male;New York;Bi-Weekly
+1617;26;Male;Colorado;Quarterly
+1618;43;Male;Wisconsin;Fortnightly
+1619;63;Male;Michigan;Quarterly
+1620;57;Male;Hawaii;Bi-Weekly
+1621;25;Male;Virginia;Every 3 Months
+1622;68;Male;Ohio;Fortnightly
+1623;31;Male;Missouri;Every 3 Months
+1624;64;Male;Indiana;Annually
+1625;38;Male;Florida;Every 3 Months
+1626;34;Male;Minnesota;Bi-Weekly
+1627;32;Male;Nevada;Bi-Weekly
+1628;69;Male;Maine;Annually
+1629;45;Male;Massachusetts;Monthly
+1630;35;Male;North Dakota;Quarterly
+1631;63;Male;New Jersey;Every 3 Months
+1632;65;Male;Indiana;Fortnightly
+1633;35;Male;Oregon;Every 3 Months
+1634;54;Male;North Dakota;Bi-Weekly
+1635;28;Male;South Carolina;Every 3 Months
+1636;68;Male;North Carolina;Annually
+1637;58;Male;North Dakota;Fortnightly
+1638;35;Male;Massachusetts;Fortnightly
+1639;68;Male;Tennessee;Weekly
+1640;41;Male;Missouri;Annually
+1641;65;Male;Tennessee;Weekly
+1642;50;Male;Colorado;Every 3 Months
+1643;18;Male;Mississippi;Fortnightly
+1644;38;Male;Ohio;Monthly
+1645;68;Male;North Carolina;Monthly
+1646;53;Male;Ohio;Every 3 Months
+1647;58;Male;Nebraska;Every 3 Months
+1648;34;Male;Hawaii;Quarterly
+1649;36;Male;Oklahoma;Monthly
+1650;58;Male;Wisconsin;Quarterly
+1651;60;Male;Arkansas;Fortnightly
+1652;59;Male;Texas;Monthly
+1653;65;Male;New Mexico;Fortnightly
+1654;31;Male;Colorado;Bi-Weekly
+1655;43;Male;Indiana;Quarterly
+1656;37;Male;Arizona;Monthly
+1657;21;Male;Indiana;Every 3 Months
+1658;69;Male;Indiana;Bi-Weekly
+1659;32;Male;Alaska;Weekly
+1660;53;Male;Utah;Annually
+1661;59;Male;Louisiana;Monthly
+1662;64;Male;Iowa;Quarterly
+1663;63;Male;New Mexico;Fortnightly
+1664;43;Male;Maine;Bi-Weekly
+1665;19;Male;Minnesota;Weekly
+1666;40;Male;New Mexico;Monthly
+1667;51;Male;Arkansas;Annually
+1668;51;Male;Oklahoma;Every 3 Months
+1669;66;Male;Utah;Fortnightly
+1670;42;Male;Wisconsin;Quarterly
+1671;22;Male;Utah;Weekly
+1672;31;Male;Utah;Weekly
+1673;18;Male;South Carolina;Quarterly
+1674;21;Male;Hawaii;Bi-Weekly
+1675;35;Male;Alaska;Fortnightly
+1676;35;Male;Colorado;Annually
+1677;27;Male;West Virginia;Weekly
+1678;65;Male;Oregon;Weekly
+1679;41;Male;Ohio;Fortnightly
+1680;60;Male;Massachusetts;Bi-Weekly
+1681;61;Male;Louisiana;Annually
+1682;24;Male;Virginia;Bi-Weekly
+1683;65;Male;New York;Bi-Weekly
+1684;23;Male;Arkansas;Quarterly
+1685;30;Male;New Mexico;Weekly
+1686;33;Male;Minnesota;Bi-Weekly
+1687;22;Male;Illinois;Annually
+1688;67;Male;Georgia;Annually
+1689;28;Male;Mississippi;Fortnightly
+1690;32;Male;North Carolina;Monthly
+1691;40;Male;Nevada;Annually
+1692;64;Male;Connecticut;Annually
+1693;56;Male;Utah;Bi-Weekly
+1694;63;Male;Tennessee;Fortnightly
+1695;20;Male;Mississippi;Fortnightly
+1696;54;Male;Nebraska;Fortnightly
+1697;31;Male;West Virginia;Bi-Weekly
+1698;36;Male;South Carolina;Every 3 Months
+1699;25;Male;Iowa;Quarterly
+1700;20;Male;North Dakota;Annually
+1701;62;Male;West Virginia;Monthly
+1702;69;Male;Mississippi;Every 3 Months
+1703;54;Male;Alabama;Weekly
+1704;39;Male;California;Annually
+1705;56;Male;Idaho;Every 3 Months
+1706;39;Male;South Dakota;Bi-Weekly
+1707;37;Male;North Dakota;Fortnightly
+1708;25;Male;Nevada;Bi-Weekly
+1709;35;Male;Florida;Quarterly
+1710;45;Male;Indiana;Annually
+1711;19;Male;Arkansas;Quarterly
+1712;21;Male;North Carolina;Monthly
+1713;65;Male;Illinois;Fortnightly
+1714;49;Male;Missouri;Quarterly
+1715;30;Male;South Dakota;Monthly
+1716;23;Male;Idaho;Bi-Weekly
+1717;69;Male;Connecticut;Every 3 Months
+1718;29;Male;Hawaii;Bi-Weekly
+1719;54;Male;Maryland;Every 3 Months
+1720;45;Male;Maryland;Quarterly
+1721;25;Male;Massachusetts;Bi-Weekly
+1722;34;Male;Delaware;Monthly
+1723;46;Male;Massachusetts;Fortnightly
+1724;70;Male;New York;Annually
+1725;42;Male;Delaware;Weekly
+1726;45;Male;Massachusetts;Quarterly
+1727;57;Male;Indiana;Weekly
+1728;49;Male;Virginia;Monthly
+1729;23;Male;Wyoming;Every 3 Months
+1730;47;Male;Illinois;Fortnightly
+1731;23;Male;Alabama;Weekly
+1732;21;Male;Idaho;Monthly
+1733;45;Male;Rhode Island;Every 3 Months
+1734;67;Male;New York;Annually
+1735;31;Male;Missouri;Quarterly
+1736;58;Male;Texas;Annually
+1737;57;Male;Tennessee;Quarterly
+1738;42;Male;Ohio;Bi-Weekly
+1739;60;Male;Tennessee;Weekly
+1740;21;Male;Minnesota;Weekly
+1741;69;Male;Wisconsin;Every 3 Months
+1742;41;Male;Delaware;Monthly
+1743;51;Male;Kansas;Every 3 Months
+1744;23;Male;Missouri;Weekly
+1745;57;Male;Michigan;Weekly
+1746;40;Male;West Virginia;Weekly
+1747;65;Male;Alabama;Fortnightly
+1748;61;Male;New Hampshire;Quarterly
+1749;34;Male;Montana;Annually
+1750;43;Male;Wyoming;Every 3 Months
+1751;31;Male;Missouri;Every 3 Months
+1752;57;Male;Ohio;Annually
+1753;34;Male;South Dakota;Quarterly
+1754;25;Male;Colorado;Fortnightly
+1755;66;Male;Massachusetts;Fortnightly
+1756;56;Male;Delaware;Monthly
+1757;49;Male;New Hampshire;Weekly
+1758;19;Male;Michigan;Annually
+1759;27;Male;Pennsylvania;Bi-Weekly
+1760;68;Male;Louisiana;Weekly
+1761;20;Male;Minnesota;Weekly
+1762;21;Male;Hawaii;Weekly
+1763;36;Male;Idaho;Fortnightly
+1764;37;Male;Vermont;Annually
+1765;61;Male;Delaware;Quarterly
+1766;68;Male;New Mexico;Quarterly
+1767;60;Male;Alaska;Bi-Weekly
+1768;69;Male;Minnesota;Fortnightly
+1769;25;Male;Nebraska;Every 3 Months
+1770;32;Male;Alaska;Monthly
+1771;53;Male;Michigan;Weekly
+1772;46;Male;Indiana;Annually
+1773;58;Male;Hawaii;Annually
+1774;21;Male;West Virginia;Annually
+1775;46;Male;New York;Weekly
+1776;18;Male;Iowa;Bi-Weekly
+1777;56;Male;Arizona;Every 3 Months
+1778;18;Male;Minnesota;Fortnightly
+1779;49;Male;Texas;Bi-Weekly
+1780;29;Male;Virginia;Weekly
+1781;67;Male;North Dakota;Weekly
+1782;31;Male;Iowa;Quarterly
+1783;52;Male;Utah;Fortnightly
+1784;42;Male;Ohio;Monthly
+1785;32;Male;Louisiana;Quarterly
+1786;47;Male;Iowa;Monthly
+1787;45;Male;Maryland;Monthly
+1788;20;Male;Montana;Quarterly
+1789;66;Male;Illinois;Bi-Weekly
+1790;52;Male;Arizona;Quarterly
+1791;50;Male;North Carolina;Bi-Weekly
+1792;62;Male;Montana;Annually
+1793;38;Male;Iowa;Every 3 Months
+1794;65;Male;Iowa;Every 3 Months
+1795;60;Male;Ohio;Fortnightly
+1796;68;Male;Wisconsin;Fortnightly
+1797;62;Male;South Carolina;Weekly
+1798;62;Male;Oregon;Weekly
+1799;40;Male;North Dakota;Weekly
+1800;32;Male;California;Weekly
+1801;22;Male;Mississippi;Weekly
+1802;33;Male;New Jersey;Fortnightly
+1803;57;Male;Rhode Island;Bi-Weekly
+1804;60;Male;New Hampshire;Fortnightly
+1805;30;Male;Louisiana;Weekly
+1806;41;Male;Arizona;Weekly
+1807;58;Male;Rhode Island;Annually
+1808;34;Male;Vermont;Fortnightly
+1809;67;Male;Tennessee;Monthly
+1810;58;Male;Alaska;Fortnightly
+1811;41;Male;Maryland;Bi-Weekly
+1812;42;Male;Wisconsin;Annually
+1813;50;Male;Nevada;Bi-Weekly
+1814;40;Male;Illinois;Weekly
+1815;32;Male;Montana;Quarterly
+1816;51;Male;New Mexico;Every 3 Months
+1817;26;Male;Virginia;Weekly
+1818;32;Male;Delaware;Weekly
+1819;58;Male;North Carolina;Every 3 Months
+1820;51;Male;Nevada;Quarterly
+1821;19;Male;Washington;Monthly
+1822;57;Male;Maine;Quarterly
+1823;66;Male;Connecticut;Annually
+1824;62;Male;Louisiana;Bi-Weekly
+1825;58;Male;Illinois;Monthly
+1826;23;Male;South Dakota;Weekly
+1827;45;Male;Indiana;Annually
+1828;20;Male;Vermont;Weekly
+1829;33;Male;New Hampshire;Every 3 Months
+1830;30;Male;Oregon;Quarterly
+1831;50;Male;Kansas;Annually
+1832;62;Male;Maine;Every 3 Months
+1833;69;Male;Louisiana;Monthly
+1834;34;Male;Louisiana;Fortnightly
+1835;49;Male;Indiana;Fortnightly
+1836;65;Male;Kentucky;Quarterly
+1837;66;Male;South Carolina;Monthly
+1838;41;Male;Montana;Monthly
+1839;37;Male;Vermont;Quarterly
+1840;32;Male;Mississippi;Annually
+1841;42;Male;Wyoming;Every 3 Months
+1842;31;Male;Vermont;Every 3 Months
+1843;61;Male;Alabama;Annually
+1844;36;Male;Kentucky;Monthly
+1845;60;Male;South Dakota;Annually
+1846;51;Male;Delaware;Quarterly
+1847;68;Male;Wisconsin;Quarterly
+1848;46;Male;Arizona;Weekly
+1849;19;Male;Maine;Every 3 Months
+1850;30;Male;New Mexico;Monthly
+1851;51;Male;Wyoming;Weekly
+1852;28;Male;Delaware;Fortnightly
+1853;41;Male;Pennsylvania;Weekly
+1854;29;Male;North Dakota;Fortnightly
+1855;25;Male;Kentucky;Annually
+1856;60;Male;Rhode Island;Annually
+1857;63;Male;Arizona;Bi-Weekly
+1858;51;Male;Colorado;Monthly
+1859;22;Male;Maine;Annually
+1860;54;Male;New Jersey;Fortnightly
+1861;18;Male;Kansas;Monthly
+1862;29;Male;South Dakota;Monthly
+1863;59;Male;New Hampshire;Fortnightly
+1864;25;Male;Connecticut;Monthly
+1865;19;Male;Wyoming;Quarterly
+1866;56;Male;Missouri;Monthly
+1867;31;Male;Alaska;Fortnightly
+1868;45;Male;Delaware;Quarterly
+1869;23;Male;Indiana;Fortnightly
+1870;18;Male;West Virginia;Every 3 Months
+1871;43;Male;Wyoming;Fortnightly
+1872;56;Male;Illinois;Every 3 Months
+1873;43;Male;Alaska;Monthly
+1874;64;Male;Wisconsin;Weekly
+1875;67;Male;Indiana;Weekly
+1876;63;Male;Tennessee;Quarterly
+1877;54;Male;Illinois;Quarterly
+1878;69;Male;Pennsylvania;Annually
+1879;34;Male;Oklahoma;Monthly
+1880;56;Male;Tennessee;Bi-Weekly
+1881;34;Male;New Jersey;Monthly
+1882;58;Male;New Jersey;Bi-Weekly
+1883;44;Male;Tennessee;Quarterly
+1884;25;Male;Georgia;Fortnightly
+1885;27;Male;Arizona;Bi-Weekly
+1886;26;Male;Nevada;Monthly
+1887;18;Male;Arkansas;Bi-Weekly
+1888;64;Male;North Dakota;Monthly
+1889;62;Male;South Dakota;Weekly
+1890;59;Male;North Carolina;Weekly
+1891;36;Male;Hawaii;Weekly
+1892;69;Male;New Hampshire;Quarterly
+1893;39;Male;California;Weekly
+1894;28;Male;Delaware;Fortnightly
+1895;42;Male;Arizona;Bi-Weekly
+1896;31;Male;Washington;Monthly
+1897;57;Male;Nevada;Monthly
+1898;53;Male;Alaska;Fortnightly
+1899;59;Male;Texas;Monthly
+1900;32;Male;New York;Weekly
+1901;65;Male;Iowa;Quarterly
+1902;56;Male;Arizona;Quarterly
+1903;31;Male;New Mexico;Monthly
+1904;59;Male;North Carolina;Weekly
+1905;22;Male;Nevada;Monthly
+1906;47;Male;Idaho;Fortnightly
+1907;23;Male;Vermont;Fortnightly
+1908;69;Male;New Mexico;Every 3 Months
+1909;18;Male;Georgia;Bi-Weekly
+1910;50;Male;Kentucky;Monthly
+1911;29;Male;New York;Quarterly
+1912;65;Male;Arizona;Bi-Weekly
+1913;29;Male;Colorado;Bi-Weekly
+1914;49;Male;Kentucky;Annually
+1915;28;Male;Alaska;Fortnightly
+1916;51;Male;Alabama;Weekly
+1917;26;Male;Connecticut;Bi-Weekly
+1918;38;Male;Hawaii;Bi-Weekly
+1919;35;Male;Idaho;Monthly
+1920;34;Male;Virginia;Bi-Weekly
+1921;51;Male;Connecticut;Every 3 Months
+1922;47;Male;Michigan;Annually
+1923;18;Male;Kentucky;Monthly
+1924;64;Male;Nebraska;Annually
+1925;30;Male;Michigan;Quarterly
+1926;59;Male;Utah;Fortnightly
+1927;66;Male;New Mexico;Annually
+1928;40;Male;Florida;Every 3 Months
+1929;25;Male;Mississippi;Weekly
+1930;59;Male;Hawaii;Quarterly
+1931;66;Male;North Carolina;Weekly
+1932;54;Male;Illinois;Every 3 Months
+1933;42;Male;Maryland;Every 3 Months
+1934;48;Male;Montana;Annually
+1935;34;Male;Michigan;Annually
+1936;19;Male;North Carolina;Fortnightly
+1937;70;Male;Minnesota;Every 3 Months
+1938;43;Male;Delaware;Monthly
+1939;46;Male;Kentucky;Bi-Weekly
+1940;66;Male;Ohio;Every 3 Months
+1941;50;Male;Alaska;Fortnightly
+1942;55;Male;Vermont;Quarterly
+1943;63;Male;Alabama;Monthly
+1944;32;Male;Wisconsin;Annually
+1945;30;Male;Arkansas;Every 3 Months
+1946;35;Male;Georgia;Every 3 Months
+1947;59;Male;Louisiana;Quarterly
+1948;59;Male;New York;Monthly
+1949;54;Male;Connecticut;Bi-Weekly
+1950;63;Male;Nebraska;Quarterly
+1951;43;Male;Arkansas;Every 3 Months
+1952;33;Male;Connecticut;Bi-Weekly
+1953;57;Male;Maryland;Bi-Weekly
+1954;25;Male;Colorado;Fortnightly
+1955;26;Male;Colorado;Quarterly
+1956;50;Male;Maine;Monthly
+1957;70;Male;Oklahoma;Fortnightly
+1958;68;Male;South Carolina;Bi-Weekly
+1959;39;Male;Nevada;Quarterly
+1960;46;Male;Colorado;Every 3 Months
+1961;57;Male;Massachusetts;Annually
+1962;47;Male;Nevada;Quarterly
+1963;40;Male;Iowa;Fortnightly
+1964;52;Male;Michigan;Weekly
+1965;40;Male;West Virginia;Monthly
+1966;67;Male;Indiana;Quarterly
+1967;67;Male;Indiana;Fortnightly
+1968;37;Male;Georgia;Annually
+1969;67;Male;Minnesota;Weekly
+1970;64;Male;Louisiana;Fortnightly
+1971;28;Male;Maryland;Bi-Weekly
+1972;54;Male;Pennsylvania;Monthly
+1973;54;Male;Louisiana;Every 3 Months
+1974;24;Male;Maryland;Every 3 Months
+1975;27;Male;Tennessee;Fortnightly
+1976;53;Male;Illinois;Quarterly
+1977;32;Male;Wyoming;Fortnightly
+1978;24;Male;Florida;Annually
+1979;45;Male;Massachusetts;Quarterly
+1980;49;Male;Tennessee;Fortnightly
+1981;51;Male;Iowa;Fortnightly
+1982;69;Male;Michigan;Quarterly
+1983;41;Male;Kansas;Monthly
+1984;59;Male;Georgia;Quarterly
+1985;26;Male;West Virginia;Fortnightly
+1986;23;Male;Tennessee;Fortnightly
+1987;62;Male;Arkansas;Quarterly
+1988;69;Male;Vermont;Quarterly
+1989;46;Male;Virginia;Weekly
+1990;35;Male;Maryland;Bi-Weekly
+1991;32;Male;Connecticut;Annually
+1992;46;Male;Missouri;Every 3 Months
+1993;33;Male;New Jersey;Monthly
+1994;32;Male;Arkansas;Weekly
+1995;33;Male;Nevada;Weekly
+1996;67;Male;Missouri;Quarterly
+1997;67;Male;South Dakota;Every 3 Months
+1998;42;Male;Connecticut;Bi-Weekly
+1999;20;Male;Vermont;Quarterly
+2000;39;Male;Tennessee;Monthly
+2001;26;Male;California;Bi-Weekly
+2002;51;Male;Wyoming;Fortnightly
+2003;31;Male;New York;Every 3 Months
+2004;68;Male;Maine;Quarterly
+2005;44;Male;Georgia;Bi-Weekly
+2006;18;Male;Tennessee;Fortnightly
+2007;58;Male;New Mexico;Annually
+2008;26;Male;Virginia;Quarterly
+2009;57;Male;Florida;Every 3 Months
+2010;37;Male;Alabama;Bi-Weekly
+2011;24;Male;Texas;Bi-Weekly
+2012;57;Male;West Virginia;Monthly
+2013;48;Male;Nevada;Fortnightly
+2014;39;Male;Virginia;Quarterly
+2015;51;Male;Wisconsin;Bi-Weekly
+2016;57;Male;Virginia;Fortnightly
+2017;53;Male;Maine;Fortnightly
+2018;70;Male;Massachusetts;Every 3 Months
+2019;60;Male;Arkansas;Weekly
+2020;31;Male;Idaho;Fortnightly
+2021;41;Male;Pennsylvania;Quarterly
+2022;62;Male;Maine;Quarterly
+2023;59;Male;Alabama;Bi-Weekly
+2024;46;Male;Idaho;Bi-Weekly
+2025;62;Male;Arkansas;Weekly
+2026;42;Male;Delaware;Fortnightly
+2027;37;Male;Maine;Every 3 Months
+2028;50;Male;Nebraska;Every 3 Months
+2029;29;Male;Ohio;Bi-Weekly
+2030;25;Male;Montana;Quarterly
+2031;66;Male;New Mexico;Monthly
+2032;21;Male;North Carolina;Monthly
+2033;46;Male;South Carolina;Annually
+2034;57;Male;Illinois;Annually
+2035;61;Male;Alabama;Monthly
+2036;53;Male;Oklahoma;Weekly
+2037;37;Male;Minnesota;Weekly
+2038;39;Male;Illinois;Bi-Weekly
+2039;53;Male;Arkansas;Fortnightly
+2040;35;Male;Minnesota;Bi-Weekly
+2041;69;Male;South Carolina;Quarterly
+2042;66;Male;New York;Bi-Weekly
+2043;19;Male;Alabama;Monthly
+2044;47;Male;New York;Weekly
+2045;49;Male;Missouri;Fortnightly
+2046;31;Male;Georgia;Quarterly
+2047;39;Male;Oklahoma;Every 3 Months
+2048;58;Male;Connecticut;Annually
+2049;45;Male;Michigan;Quarterly
+2050;68;Male;Rhode Island;Annually
+2051;35;Male;Mississippi;Annually
+2052;65;Male;Massachusetts;Monthly
+2053;45;Male;New Hampshire;Annually
+2054;19;Male;Wyoming;Fortnightly
+2055;65;Male;New Jersey;Annually
+2056;28;Male;Texas;Weekly
+2057;55;Male;Minnesota;Monthly
+2058;66;Male;South Dakota;Every 3 Months
+2059;29;Male;Washington;Quarterly
+2060;56;Male;California;Weekly
+2061;21;Male;Wisconsin;Quarterly
+2062;32;Male;Michigan;Annually
+2063;54;Male;South Carolina;Quarterly
+2064;61;Male;Indiana;Monthly
+2065;31;Male;Arkansas;Monthly
+2066;27;Male;Oregon;Bi-Weekly
+2067;64;Male;Illinois;Fortnightly
+2068;60;Male;Maryland;Fortnightly
+2069;70;Male;Vermont;Monthly
+2070;36;Male;Texas;Quarterly
+2071;56;Male;Nebraska;Monthly
+2072;69;Male;South Carolina;Quarterly
+2073;39;Male;Massachusetts;Weekly
+2074;38;Male;Texas;Every 3 Months
+2075;36;Male;Florida;Fortnightly
+2076;46;Male;South Carolina;Monthly
+2077;59;Male;Florida;Bi-Weekly
+2078;64;Male;Nebraska;Annually
+2079;49;Male;Hawaii;Weekly
+2080;32;Male;Montana;Quarterly
+2081;29;Male;South Dakota;Bi-Weekly
+2082;24;Male;Alabama;Bi-Weekly
+2083;41;Male;Arkansas;Every 3 Months
+2084;41;Male;Mississippi;Fortnightly
+2085;32;Male;Vermont;Quarterly
+2086;69;Male;New York;Weekly
+2087;65;Male;North Dakota;Every 3 Months
+2088;54;Male;Wisconsin;Weekly
+2089;39;Male;California;Annually
+2090;37;Male;Maryland;Every 3 Months
+2091;51;Male;Massachusetts;Monthly
+2092;26;Male;Washington;Quarterly
+2093;42;Male;Minnesota;Weekly
+2094;21;Male;Washington;Annually
+2095;53;Male;South Carolina;Annually
+2096;36;Male;New Mexico;Fortnightly
+2097;21;Male;North Carolina;Annually
+2098;33;Male;Iowa;Weekly
+2099;49;Male;Louisiana;Quarterly
+2100;31;Male;Oklahoma;Annually
+2101;68;Male;Michigan;Fortnightly
+2102;49;Male;Oregon;Bi-Weekly
+2103;23;Male;Idaho;Monthly
+2104;30;Male;Indiana;Weekly
+2105;53;Male;New Mexico;Weekly
+2106;65;Male;South Carolina;Bi-Weekly
+2107;60;Male;Vermont;Every 3 Months
+2108;46;Male;Delaware;Quarterly
+2109;54;Male;North Dakota;Quarterly
+2110;59;Male;California;Every 3 Months
+2111;52;Male;Montana;Every 3 Months
+2112;41;Male;Missouri;Annually
+2113;43;Male;Tennessee;Fortnightly
+2114;63;Male;Virginia;Every 3 Months
+2115;37;Male;Vermont;Annually
+2116;44;Male;Rhode Island;Bi-Weekly
+2117;67;Male;Kansas;Bi-Weekly
+2118;27;Male;Colorado;Annually
+2119;60;Male;Georgia;Quarterly
+2120;58;Male;Nebraska;Bi-Weekly
+2121;53;Male;Missouri;Quarterly
+2122;43;Male;Alaska;Monthly
+2123;32;Male;Virginia;Weekly
+2124;54;Male;Nebraska;Bi-Weekly
+2125;47;Male;Rhode Island;Quarterly
+2126;57;Male;New Hampshire;Quarterly
+2127;63;Male;Alabama;Monthly
+2128;70;Male;North Carolina;Weekly
+2129;62;Male;New Mexico;Weekly
+2130;40;Male;Minnesota;Every 3 Months
+2131;25;Male;Arizona;Annually
+2132;19;Male;Montana;Fortnightly
+2133;25;Male;Vermont;Weekly
+2134;21;Male;Maine;Annually
+2135;55;Male;Virginia;Fortnightly
+2136;34;Male;California;Every 3 Months
+2137;47;Male;New York;Fortnightly
+2138;27;Male;Indiana;Every 3 Months
+2139;67;Male;Mississippi;Quarterly
+2140;40;Male;New York;Weekly
+2141;53;Male;New Mexico;Fortnightly
+2142;24;Male;Kentucky;Annually
+2143;47;Male;North Dakota;Quarterly
+2144;53;Male;Arkansas;Bi-Weekly
+2145;47;Male;Maryland;Quarterly
+2146;38;Male;Connecticut;Annually
+2147;48;Male;Utah;Every 3 Months
+2148;47;Male;Missouri;Fortnightly
+2149;19;Male;Nebraska;Bi-Weekly
+2150;38;Male;Hawaii;Weekly
+2151;57;Male;Illinois;Weekly
+2152;70;Male;Vermont;Monthly
+2153;38;Male;New Jersey;Bi-Weekly
+2154;35;Male;Kentucky;Annually
+2155;46;Male;Wyoming;Every 3 Months
+2156;32;Male;Hawaii;Monthly
+2157;38;Male;Missouri;Bi-Weekly
+2158;41;Male;Mississippi;Fortnightly
+2159;19;Male;Massachusetts;Fortnightly
+2160;18;Male;Louisiana;Annually
+2161;45;Male;West Virginia;Annually
+2162;23;Male;Washington;Fortnightly
+2163;60;Male;Oregon;Weekly
+2164;52;Male;New York;Monthly
+2165;42;Male;Iowa;Bi-Weekly
+2166;29;Male;Idaho;Every 3 Months
+2167;31;Male;New Jersey;Bi-Weekly
+2168;30;Male;Ohio;Fortnightly
+2169;23;Male;Connecticut;Quarterly
+2170;31;Male;Florida;Bi-Weekly
+2171;40;Male;South Carolina;Every 3 Months
+2172;39;Male;Missouri;Fortnightly
+2173;28;Male;Rhode Island;Fortnightly
+2174;23;Male;Delaware;Quarterly
+2175;42;Male;Colorado;Annually
+2176;68;Male;Nebraska;Fortnightly
+2177;24;Male;Vermont;Quarterly
+2178;24;Male;Montana;Bi-Weekly
+2179;21;Male;Florida;Annually
+2180;49;Male;Delaware;Monthly
+2181;41;Male;Connecticut;Quarterly
+2182;22;Male;Hawaii;Bi-Weekly
+2183;42;Male;New Mexico;Bi-Weekly
+2184;30;Male;Kansas;Monthly
+2185;38;Male;Nevada;Every 3 Months
+2186;40;Male;North Carolina;Every 3 Months
+2187;55;Male;New Mexico;Every 3 Months
+2188;37;Male;Idaho;Annually
+2189;41;Male;California;Weekly
+2190;38;Male;Wisconsin;Bi-Weekly
+2191;42;Male;Alaska;Annually
+2192;26;Male;Pennsylvania;Bi-Weekly
+2193;41;Male;Virginia;Monthly
+2194;27;Male;California;Monthly
+2195;61;Male;Kentucky;Quarterly
+2196;58;Male;New York;Monthly
+2197;25;Male;Vermont;Weekly
+2198;33;Male;Pennsylvania;Monthly
+2199;57;Male;New York;Monthly
+2200;39;Male;North Carolina;Monthly
+2201;60;Male;Wyoming;Every 3 Months
+2202;39;Male;Ohio;Annually
+2203;42;Male;Alabama;Weekly
+2204;53;Male;Rhode Island;Quarterly
+2205;20;Male;Oregon;Monthly
+2206;46;Male;North Dakota;Weekly
+2207;46;Male;Illinois;Fortnightly
+2208;69;Male;New Mexico;Annually
+2209;28;Male;Colorado;Monthly
+2210;42;Male;Utah;Quarterly
+2211;30;Male;Virginia;Fortnightly
+2212;50;Male;Maine;Every 3 Months
+2213;59;Male;Nebraska;Quarterly
+2214;54;Male;Hawaii;Quarterly
+2215;50;Male;Idaho;Weekly
+2216;25;Male;West Virginia;Fortnightly
+2217;41;Male;Vermont;Bi-Weekly
+2218;35;Male;Indiana;Fortnightly
+2219;67;Male;Idaho;Quarterly
+2220;33;Male;Minnesota;Fortnightly
+2221;19;Male;Wyoming;Annually
+2222;25;Male;Kansas;Annually
+2223;32;Male;Georgia;Weekly
+2224;30;Male;Kansas;Quarterly
+2225;18;Male;Nebraska;Quarterly
+2226;38;Male;Washington;Annually
+2227;22;Male;Missouri;Annually
+2228;40;Male;Washington;Fortnightly
+2229;54;Male;Kansas;Weekly
+2230;70;Male;Minnesota;Monthly
+2231;52;Male;Colorado;Fortnightly
+2232;34;Male;Utah;Weekly
+2233;65;Male;North Carolina;Fortnightly
+2234;38;Male;Florida;Monthly
+2235;35;Male;New Hampshire;Weekly
+2236;40;Male;Illinois;Annually
+2237;23;Male;Louisiana;Fortnightly
+2238;45;Male;Alabama;Every 3 Months
+2239;40;Male;Florida;Weekly
+2240;42;Male;Alabama;Every 3 Months
+2241;57;Male;California;Every 3 Months
+2242;18;Male;Maryland;Bi-Weekly
+2243;18;Male;Nevada;Bi-Weekly
+2244;56;Male;Massachusetts;Annually
+2245;35;Male;South Carolina;Annually
+2246;49;Male;Delaware;Fortnightly
+2247;49;Male;Hawaii;Every 3 Months
+2248;34;Male;Florida;Annually
+2249;63;Male;Rhode Island;Fortnightly
+2250;42;Male;Wyoming;Weekly
+2251;41;Male;Colorado;Weekly
+2252;26;Male;Virginia;Monthly
+2253;48;Male;Nebraska;Annually
+2254;62;Male;Oklahoma;Monthly
+2255;24;Male;North Dakota;Every 3 Months
+2256;48;Male;Michigan;Quarterly
+2257;31;Male;California;Quarterly
+2258;41;Male;Tennessee;Annually
+2259;24;Male;Ohio;Every 3 Months
+2260;60;Male;Florida;Annually
+2261;38;Male;Missouri;Quarterly
+2262;58;Male;South Carolina;Fortnightly
+2263;53;Male;Arizona;Monthly
+2264;44;Male;Indiana;Quarterly
+2265;51;Male;North Dakota;Monthly
+2266;36;Male;Montana;Quarterly
+2267;20;Male;Missouri;Weekly
+2268;32;Male;Kentucky;Weekly
+2269;66;Male;Georgia;Monthly
+2270;49;Male;Kentucky;Annually
+2271;27;Male;Georgia;Weekly
+2272;29;Male;Alaska;Quarterly
+2273;29;Male;Maine;Monthly
+2274;55;Male;New Mexico;Bi-Weekly
+2275;57;Male;New York;Fortnightly
+2276;29;Male;Oklahoma;Weekly
+2277;31;Male;Wyoming;Weekly
+2278;25;Male;Alabama;Quarterly
+2279;61;Male;Maryland;Every 3 Months
+2280;53;Male;West Virginia;Quarterly
+2281;22;Male;Kentucky;Fortnightly
+2282;28;Male;Kansas;Annually
+2283;18;Male;Idaho;Annually
+2284;44;Male;Ohio;Fortnightly
+2285;32;Male;Iowa;Annually
+2286;34;Male;Michigan;Every 3 Months
+2287;67;Male;South Dakota;Quarterly
+2288;66;Male;Nebraska;Annually
+2289;28;Male;California;Weekly
+2290;70;Male;Nevada;Weekly
+2291;37;Male;Kansas;Quarterly
+2292;28;Male;Ohio;Quarterly
+2293;43;Male;Vermont;Monthly
+2294;37;Male;Georgia;Every 3 Months
+2295;54;Male;Maryland;Annually
+2296;50;Male;Connecticut;Quarterly
+2297;46;Male;Washington;Every 3 Months
+2298;60;Male;California;Quarterly
+2299;40;Male;Montana;Every 3 Months
+2300;64;Male;Idaho;Every 3 Months
+2301;18;Male;Pennsylvania;Monthly
+2302;37;Male;Maine;Annually
+2303;36;Male;Montana;Monthly
+2304;51;Male;New Jersey;Fortnightly
+2305;26;Male;Louisiana;Fortnightly
+2306;68;Male;Maine;Weekly
+2307;27;Male;Florida;Bi-Weekly
+2308;28;Male;Missouri;Annually
+2309;49;Male;North Dakota;Quarterly
+2310;70;Male;Connecticut;Quarterly
+2311;30;Male;Virginia;Monthly
+2312;27;Male;Montana;Every 3 Months
+2313;19;Male;Vermont;Every 3 Months
+2314;64;Male;Georgia;Fortnightly
+2315;42;Male;Virginia;Every 3 Months
+2316;69;Male;Vermont;Quarterly
+2317;28;Male;Montana;Annually
+2318;47;Male;New Jersey;Monthly
+2319;69;Male;Wyoming;Annually
+2320;56;Male;Maine;Monthly
+2321;28;Male;New Mexico;Every 3 Months
+2322;50;Male;Colorado;Fortnightly
+2323;39;Male;Connecticut;Fortnightly
+2324;35;Male;Maryland;Monthly
+2325;59;Male;Oregon;Annually
+2326;44;Male;New York;Weekly
+2327;66;Male;Oklahoma;Annually
+2328;20;Male;Alabama;Bi-Weekly
+2329;45;Male;North Dakota;Bi-Weekly
+2330;49;Male;Nebraska;Annually
+2331;60;Male;Arizona;Every 3 Months
+2332;61;Male;Illinois;Bi-Weekly
+2333;36;Male;South Carolina;Monthly
+2334;33;Male;Kansas;Every 3 Months
+2335;49;Male;Kansas;Monthly
+2336;31;Male;Idaho;Fortnightly
+2337;19;Male;California;Weekly
+2338;39;Male;North Dakota;Annually
+2339;66;Male;Georgia;Quarterly
+2340;25;Male;Illinois;Quarterly
+2341;63;Male;Delaware;Fortnightly
+2342;56;Male;Connecticut;Every 3 Months
+2343;20;Male;Tennessee;Fortnightly
+2344;58;Male;Maryland;Monthly
+2345;34;Male;Rhode Island;Bi-Weekly
+2346;28;Male;New York;Every 3 Months
+2347;22;Male;New Mexico;Fortnightly
+2348;37;Male;California;Every 3 Months
+2349;54;Male;Maine;Every 3 Months
+2350;65;Male;New York;Every 3 Months
+2351;57;Male;Hawaii;Annually
+2352;38;Male;New Hampshire;Bi-Weekly
+2353;70;Male;Nebraska;Quarterly
+2354;56;Male;Montana;Every 3 Months
+2355;56;Male;Wisconsin;Monthly
+2356;22;Male;Tennessee;Monthly
+2357;57;Male;Montana;Quarterly
+2358;53;Male;Michigan;Bi-Weekly
+2359;53;Male;Texas;Quarterly
+2360;19;Male;Pennsylvania;Every 3 Months
+2361;49;Male;New York;Every 3 Months
+2362;44;Male;Alabama;Every 3 Months
+2363;27;Male;Virginia;Monthly
+2364;60;Male;Pennsylvania;Bi-Weekly
+2365;62;Male;Mississippi;Quarterly
+2366;52;Male;Wyoming;Monthly
+2367;30;Male;New Mexico;Fortnightly
+2368;66;Male;North Dakota;Bi-Weekly
+2369;29;Male;New Jersey;Every 3 Months
+2370;24;Male;Vermont;Monthly
+2371;51;Male;Alaska;Weekly
+2372;67;Male;Indiana;Annually
+2373;50;Male;Alabama;Fortnightly
+2374;37;Male;Michigan;Every 3 Months
+2375;69;Male;Washington;Monthly
+2376;60;Male;Virginia;Quarterly
+2377;21;Male;Tennessee;Weekly
+2378;44;Male;South Dakota;Annually
+2379;26;Male;New Hampshire;Bi-Weekly
+2380;40;Male;South Dakota;Monthly
+2381;41;Male;Pennsylvania;Fortnightly
+2382;62;Male;Wisconsin;Annually
+2383;39;Male;California;Weekly
+2384;53;Male;Rhode Island;Annually
+2385;24;Male;Alabama;Quarterly
+2386;41;Male;Oklahoma;Weekly
+2387;19;Male;Illinois;Monthly
+2388;36;Male;Tennessee;Monthly
+2389;21;Male;Alabama;Annually
+2390;25;Male;Kansas;Every 3 Months
+2391;65;Male;Arizona;Fortnightly
+2392;42;Male;Michigan;Quarterly
+2393;40;Male;Missouri;Annually
+2394;58;Male;Louisiana;Every 3 Months
+2395;40;Male;Connecticut;Fortnightly
+2396;62;Male;Connecticut;Bi-Weekly
+2397;38;Male;Oregon;Weekly
+2398;37;Male;West Virginia;Monthly
+2399;65;Male;Florida;Fortnightly
+2400;55;Male;New Hampshire;Monthly
+2401;43;Male;Oregon;Bi-Weekly
+2402;43;Male;Oregon;Bi-Weekly
+2403;45;Male;Utah;Weekly
+2404;64;Male;Missouri;Weekly
+2405;28;Male;West Virginia;Bi-Weekly
+2406;69;Male;California;Quarterly
+2407;54;Male;California;Weekly
+2408;52;Male;Illinois;Bi-Weekly
+2409;23;Male;Hawaii;Every 3 Months
+2410;26;Male;Washington;Every 3 Months
+2411;48;Male;Wisconsin;Monthly
+2412;49;Male;Virginia;Every 3 Months
+2413;53;Male;Oregon;Bi-Weekly
+2414;69;Male;Pennsylvania;Weekly
+2415;26;Male;Virginia;Bi-Weekly
+2416;21;Male;Hawaii;Weekly
+2417;59;Male;Nebraska;Every 3 Months
+2418;21;Male;Alaska;Fortnightly
+2419;22;Male;Michigan;Every 3 Months
+2420;26;Male;North Carolina;Every 3 Months
+2421;41;Male;North Carolina;Annually
+2422;37;Male;Minnesota;Every 3 Months
+2423;30;Male;Georgia;Weekly
+2424;49;Male;West Virginia;Every 3 Months
+2425;49;Male;Delaware;Bi-Weekly
+2426;58;Male;North Dakota;Quarterly
+2427;70;Male;Florida;Every 3 Months
+2428;27;Male;Oregon;Quarterly
+2429;65;Male;Idaho;Annually
+2430;57;Male;Virginia;Fortnightly
+2431;20;Male;North Dakota;Quarterly
+2432;34;Male;Alabama;Every 3 Months
+2433;59;Male;Hawaii;Monthly
+2434;54;Male;Oregon;Bi-Weekly
+2435;36;Male;Utah;Monthly
+2436;21;Male;Hawaii;Bi-Weekly
+2437;52;Male;Connecticut;Quarterly
+2438;43;Male;Wyoming;Weekly
+2439;32;Male;Delaware;Weekly
+2440;55;Male;Arkansas;Annually
+2441;31;Male;Indiana;Annually
+2442;45;Male;California;Monthly
+2443;53;Male;Wyoming;Bi-Weekly
+2444;24;Male;South Dakota;Bi-Weekly
+2445;47;Male;West Virginia;Bi-Weekly
+2446;63;Male;Tennessee;Weekly
+2447;38;Male;Alaska;Monthly
+2448;59;Male;South Dakota;Fortnightly
+2449;54;Male;Tennessee;Bi-Weekly
+2450;26;Male;Alabama;Fortnightly
+2451;68;Male;North Carolina;Quarterly
+2452;41;Male;Oklahoma;Monthly
+2453;68;Male;New York;Every 3 Months
+2454;21;Male;Iowa;Annually
+2455;32;Male;Alaska;Annually
+2456;20;Male;Alaska;Every 3 Months
+2457;59;Male;Nebraska;Monthly
+2458;53;Male;Delaware;Quarterly
+2459;66;Male;Texas;Weekly
+2460;47;Male;Missouri;Weekly
+2461;58;Male;Maine;Annually
+2462;28;Male;Pennsylvania;Weekly
+2463;68;Male;Missouri;Bi-Weekly
+2464;60;Male;Mississippi;Bi-Weekly
+2465;47;Male;Hawaii;Bi-Weekly
+2466;18;Male;Texas;Weekly
+2467;32;Male;South Dakota;Annually
+2468;27;Male;New Jersey;Annually
+2469;65;Male;Connecticut;Weekly
+2470;68;Male;Maryland;Annually
+2471;55;Male;Arizona;Fortnightly
+2472;30;Male;Oklahoma;Annually
+2473;24;Male;Utah;Annually
+2474;57;Male;Arkansas;Quarterly
+2475;23;Male;North Carolina;Quarterly
+2476;69;Male;California;Monthly
+2477;60;Male;Colorado;Monthly
+2478;25;Male;California;Weekly
+2479;18;Male;Vermont;Every 3 Months
+2480;37;Male;Kansas;Every 3 Months
+2481;61;Male;Ohio;Fortnightly
+2482;41;Male;New Jersey;Weekly
+2483;69;Male;Arizona;Every 3 Months
+2484;32;Male;Arizona;Monthly
+2485;60;Male;New Hampshire;Every 3 Months
+2486;43;Male;Louisiana;Annually
+2487;61;Male;Texas;Fortnightly
+2488;57;Male;Montana;Bi-Weekly
+2489;56;Male;New Hampshire;Monthly
+2490;66;Male;South Dakota;Quarterly
+2491;52;Male;Montana;Every 3 Months
+2492;63;Male;North Carolina;Monthly
+2493;50;Male;South Dakota;Bi-Weekly
+2494;21;Male;Maine;Every 3 Months
+2495;42;Male;Oklahoma;Annually
+2496;40;Male;Nebraska;Every 3 Months
+2497;67;Male;Illinois;Weekly
+2498;35;Male;Colorado;Annually
+2499;18;Male;Massachusetts;Fortnightly
+2500;52;Male;Louisiana;Quarterly
+2501;59;Male;Massachusetts;Bi-Weekly
+2502;49;Male;West Virginia;Bi-Weekly
+2503;46;Male;Idaho;Every 3 Months
+2504;69;Male;Ohio;Bi-Weekly
+2505;56;Male;Rhode Island;Bi-Weekly
+2506;27;Male;Illinois;Quarterly
+2507;57;Male;New York;Annually
+2508;58;Male;Louisiana;Every 3 Months
+2509;23;Male;California;Bi-Weekly
+2510;19;Male;Washington;Quarterly
+2511;40;Male;South Dakota;Weekly
+2512;54;Male;Idaho;Quarterly
+2513;50;Male;North Dakota;Monthly
+2514;69;Male;Washington;Annually
+2515;42;Male;Alaska;Bi-Weekly
+2516;37;Male;Kansas;Monthly
+2517;46;Male;Utah;Quarterly
+2518;64;Male;Wyoming;Annually
+2519;20;Male;Maine;Annually
+2520;40;Male;Michigan;Quarterly
+2521;64;Male;Illinois;Every 3 Months
+2522;29;Male;Minnesota;Every 3 Months
+2523;20;Male;Massachusetts;Weekly
+2524;43;Male;New Jersey;Annually
+2525;60;Male;Kansas;Quarterly
+2526;39;Male;Kentucky;Weekly
+2527;47;Male;Rhode Island;Bi-Weekly
+2528;19;Male;Illinois;Every 3 Months
+2529;52;Male;Alabama;Monthly
+2530;34;Male;Tennessee;Monthly
+2531;25;Male;Massachusetts;Weekly
+2532;43;Male;Texas;Every 3 Months
+2533;55;Male;Nebraska;Weekly
+2534;66;Male;Pennsylvania;Bi-Weekly
+2535;41;Male;Virginia;Weekly
+2536;47;Male;Vermont;Fortnightly
+2537;51;Male;Oklahoma;Every 3 Months
+2538;44;Male;Maine;Fortnightly
+2539;18;Male;New Jersey;Bi-Weekly
+2540;33;Male;Massachusetts;Bi-Weekly
+2541;24;Male;New Jersey;Quarterly
+2542;33;Male;Washington;Every 3 Months
+2543;61;Male;Arkansas;Annually
+2544;27;Male;West Virginia;Bi-Weekly
+2545;46;Male;Delaware;Quarterly
+2546;38;Male;Texas;Annually
+2547;63;Male;Texas;Quarterly
+2548;47;Male;Mississippi;Weekly
+2549;42;Male;Texas;Monthly
+2550;41;Male;Virginia;Every 3 Months
+2551;53;Male;New Hampshire;Fortnightly
+2552;29;Male;Minnesota;Annually
+2553;61;Male;Maryland;Annually
+2554;69;Male;Vermont;Every 3 Months
+2555;51;Male;Kansas;Bi-Weekly
+2556;24;Male;Idaho;Weekly
+2557;24;Male;Montana;Quarterly
+2558;70;Male;Oklahoma;Fortnightly
+2559;49;Male;California;Fortnightly
+2560;48;Male;Mississippi;Every 3 Months
+2561;58;Male;California;Bi-Weekly
+2562;32;Male;New York;Quarterly
+2563;57;Male;Arizona;Fortnightly
+2564;69;Male;Massachusetts;Every 3 Months
+2565;42;Male;Kentucky;Weekly
+2566;30;Male;Vermont;Quarterly
+2567;35;Male;Missouri;Quarterly
+2568;19;Male;Michigan;Fortnightly
+2569;52;Male;Texas;Fortnightly
+2570;42;Male;New York;Bi-Weekly
+2571;36;Male;New Mexico;Fortnightly
+2572;45;Male;Mississippi;Fortnightly
+2573;54;Male;Washington;Quarterly
+2574;54;Male;New Mexico;Annually
+2575;27;Male;Florida;Fortnightly
+2576;53;Male;Minnesota;Annually
+2577;20;Male;New Hampshire;Quarterly
+2578;52;Male;Minnesota;Monthly
+2579;54;Male;Vermont;Quarterly
+2580;65;Male;Minnesota;Weekly
+2581;43;Male;Massachusetts;Quarterly
+2582;57;Male;Wyoming;Monthly
+2583;19;Male;South Dakota;Every 3 Months
+2584;69;Male;Oklahoma;Weekly
+2585;26;Male;Florida;Bi-Weekly
+2586;57;Male;Wisconsin;Weekly
+2587;20;Male;Maine;Every 3 Months
+2588;55;Male;Connecticut;Every 3 Months
+2589;44;Male;Delaware;Bi-Weekly
+2590;52;Male;North Dakota;Annually
+2591;57;Male;California;Annually
+2592;40;Male;New Mexico;Quarterly
+2593;23;Male;Iowa;Quarterly
+2594;36;Male;Colorado;Every 3 Months
+2595;59;Male;Montana;Every 3 Months
+2596;29;Male;Iowa;Bi-Weekly
+2597;63;Male;Louisiana;Monthly
+2598;60;Male;Alabama;Bi-Weekly
+2599;64;Male;Nevada;Annually
+2600;63;Male;Vermont;Monthly
+2601;21;Male;New York;Bi-Weekly
+2602;61;Male;Mississippi;Monthly
+2603;65;Male;South Carolina;Quarterly
+2604;69;Male;Washington;Annually
+2605;47;Male;Colorado;Weekly
+2606;41;Male;Nevada;Fortnightly
+2607;68;Male;Nevada;Bi-Weekly
+2608;41;Male;Oklahoma;Every 3 Months
+2609;42;Male;Mississippi;Fortnightly
+2610;66;Male;Arkansas;Bi-Weekly
+2611;66;Male;West Virginia;Quarterly
+2612;33;Male;Michigan;Fortnightly
+2613;55;Male;Louisiana;Quarterly
+2614;58;Male;South Dakota;Monthly
+2615;18;Male;North Dakota;Fortnightly
+2616;49;Male;Arizona;Quarterly
+2617;61;Male;Georgia;Annually
+2618;31;Male;Idaho;Annually
+2619;70;Male;Louisiana;Monthly
+2620;68;Male;Connecticut;Weekly
+2621;27;Male;Ohio;Annually
+2622;48;Male;Maine;Annually
+2623;63;Male;New Hampshire;Annually
+2624;49;Male;Massachusetts;Annually
+2625;19;Male;South Dakota;Annually
+2626;30;Male;Colorado;Weekly
+2627;50;Male;Rhode Island;Every 3 Months
+2628;66;Male;Missouri;Quarterly
+2629;25;Male;Wyoming;Bi-Weekly
+2630;61;Male;New Hampshire;Annually
+2631;29;Male;Maine;Quarterly
+2632;53;Male;Connecticut;Weekly
+2633;24;Male;Alaska;Annually
+2634;51;Male;Alaska;Fortnightly
+2635;26;Male;North Carolina;Every 3 Months
+2636;59;Male;Colorado;Fortnightly
+2637;41;Male;Utah;Annually
+2638;20;Male;Alabama;Annually
+2639;22;Male;Hawaii;Annually
+2640;18;Male;New Hampshire;Quarterly
+2641;30;Male;Indiana;Bi-Weekly
+2642;25;Male;Vermont;Every 3 Months
+2643;39;Male;Iowa;Annually
+2644;49;Male;Maryland;Monthly
+2645;25;Male;New Mexico;Every 3 Months
+2646;23;Male;Louisiana;Bi-Weekly
+2647;33;Male;New Mexico;Every 3 Months
+2648;60;Male;South Carolina;Annually
+2649;51;Male;Illinois;Bi-Weekly
+2650;23;Male;Minnesota;Fortnightly
+2651;20;Male;Oregon;Every 3 Months
+2652;51;Male;Tennessee;Quarterly
+2653;23;Female;Maryland;Monthly
+2654;67;Female;Wisconsin;Every 3 Months
+2655;23;Female;Idaho;Annually
+2656;26;Female;Wyoming;Fortnightly
+2657;52;Female;Indiana;Fortnightly
+2658;52;Female;Texas;Fortnightly
+2659;52;Female;Ohio;Monthly
+2660;35;Female;Kansas;Fortnightly
+2661;24;Female;South Carolina;Annually
+2662;43;Female;Michigan;Annually
+2663;25;Female;Nebraska;Fortnightly
+2664;46;Female;Wisconsin;Annually
+2665;22;Female;Illinois;Weekly
+2666;70;Female;Louisiana;Weekly
+2667;49;Female;Ohio;Fortnightly
+2668;48;Female;Maryland;Fortnightly
+2669;59;Female;Texas;Quarterly
+2670;39;Female;Illinois;Weekly
+2671;30;Female;Pennsylvania;Bi-Weekly
+2672;37;Female;Alabama;Every 3 Months
+2673;56;Female;West Virginia;Annually
+2674;67;Female;Nevada;Monthly
+2675;40;Female;Florida;Every 3 Months
+2676;24;Female;Virginia;Bi-Weekly
+2677;43;Female;Kentucky;Fortnightly
+2678;45;Female;Connecticut;Every 3 Months
+2679;33;Female;Montana;Bi-Weekly
+2680;53;Female;Montana;Quarterly
+2681;44;Female;Nebraska;Annually
+2682;23;Female;Massachusetts;Monthly
+2683;59;Female;North Carolina;Every 3 Months
+2684;68;Female;Montana;Fortnightly
+2685;46;Female;Washington;Bi-Weekly
+2686;56;Female;Virginia;Quarterly
+2687;40;Female;Georgia;Fortnightly
+2688;61;Female;Delaware;Bi-Weekly
+2689;53;Female;West Virginia;Every 3 Months
+2690;29;Female;Wyoming;Quarterly
+2691;44;Female;New Mexico;Weekly
+2692;43;Female;Nebraska;Monthly
+2693;40;Female;Washington;Every 3 Months
+2694;55;Female;Hawaii;Quarterly
+2695;66;Female;Louisiana;Every 3 Months
+2696;50;Female;Tennessee;Bi-Weekly
+2697;57;Female;South Dakota;Monthly
+2698;42;Female;Delaware;Quarterly
+2699;55;Female;Virginia;Quarterly
+2700;25;Female;Utah;Annually
+2701;22;Female;California;Weekly
+2702;49;Female;Idaho;Fortnightly
+2703;70;Female;Texas;Fortnightly
+2704;56;Female;Tennessee;Weekly
+2705;52;Female;Tennessee;Weekly
+2706;65;Female;Washington;Bi-Weekly
+2707;24;Female;Alabama;Quarterly
+2708;32;Female;Nebraska;Weekly
+2709;57;Female;Alabama;Weekly
+2710;35;Female;Illinois;Bi-Weekly
+2711;69;Female;Wisconsin;Fortnightly
+2712;30;Female;Nebraska;Monthly
+2713;37;Female;North Dakota;Quarterly
+2714;19;Female;Mississippi;Annually
+2715;53;Female;Iowa;Bi-Weekly
+2716;25;Female;Mississippi;Fortnightly
+2717;47;Female;Colorado;Weekly
+2718;18;Female;Nebraska;Every 3 Months
+2719;22;Female;Virginia;Bi-Weekly
+2720;69;Female;Louisiana;Monthly
+2721;55;Female;Maryland;Quarterly
+2722;19;Female;Minnesota;Fortnightly
+2723;23;Female;Maine;Fortnightly
+2724;54;Female;Texas;Every 3 Months
+2725;52;Female;Missouri;Fortnightly
+2726;64;Female;Mississippi;Annually
+2727;33;Female;Michigan;Bi-Weekly
+2728;40;Female;Colorado;Fortnightly
+2729;26;Female;Florida;Weekly
+2730;31;Female;Montana;Monthly
+2731;23;Female;Wisconsin;Annually
+2732;52;Female;Wisconsin;Quarterly
+2733;21;Female;Delaware;Every 3 Months
+2734;31;Female;North Carolina;Annually
+2735;63;Female;New York;Bi-Weekly
+2736;46;Female;California;Bi-Weekly
+2737;44;Female;Montana;Annually
+2738;57;Female;North Carolina;Every 3 Months
+2739;50;Female;Ohio;Every 3 Months
+2740;33;Female;Alaska;Every 3 Months
+2741;19;Female;Pennsylvania;Fortnightly
+2742;68;Female;Maine;Monthly
+2743;27;Female;Texas;Annually
+2744;61;Female;New Jersey;Quarterly
+2745;38;Female;Wyoming;Monthly
+2746;28;Female;Michigan;Bi-Weekly
+2747;39;Female;Ohio;Every 3 Months
+2748;18;Female;West Virginia;Every 3 Months
+2749;24;Female;Virginia;Annually
+2750;64;Female;Vermont;Annually
+2751;51;Female;Alaska;Every 3 Months
+2752;27;Female;Minnesota;Monthly
+2753;48;Female;Colorado;Bi-Weekly
+2754;69;Female;Rhode Island;Quarterly
+2755;59;Female;New Jersey;Bi-Weekly
+2756;59;Female;Nevada;Annually
+2757;42;Female;Minnesota;Monthly
+2758;39;Female;Delaware;Monthly
+2759;32;Female;Illinois;Bi-Weekly
+2760;68;Female;Washington;Every 3 Months
+2761;41;Female;Alaska;Bi-Weekly
+2762;31;Female;Michigan;Every 3 Months
+2763;58;Female;Georgia;Every 3 Months
+2764;28;Female;West Virginia;Quarterly
+2765;63;Female;Arizona;Weekly
+2766;64;Female;Colorado;Quarterly
+2767;66;Female;Tennessee;Monthly
+2768;31;Female;Iowa;Monthly
+2769;55;Female;Kansas;Bi-Weekly
+2770;32;Female;Oklahoma;Weekly
+2771;50;Female;Nebraska;Quarterly
+2772;58;Female;Maryland;Fortnightly
+2773;18;Female;Pennsylvania;Every 3 Months
+2774;39;Female;Arizona;Quarterly
+2775;56;Female;Oklahoma;Quarterly
+2776;37;Female;Montana;Weekly
+2777;46;Female;Wyoming;Annually
+2778;52;Female;Idaho;Every 3 Months
+2779;70;Female;Pennsylvania;Bi-Weekly
+2780;61;Female;Montana;Fortnightly
+2781;33;Female;Ohio;Fortnightly
+2782;65;Female;Mississippi;Weekly
+2783;41;Female;Idaho;Annually
+2784;19;Female;Virginia;Quarterly
+2785;33;Female;Idaho;Every 3 Months
+2786;53;Female;Louisiana;Monthly
+2787;54;Female;Colorado;Every 3 Months
+2788;36;Female;West Virginia;Fortnightly
+2789;56;Female;Rhode Island;Annually
+2790;28;Female;North Carolina;Bi-Weekly
+2791;34;Female;Maine;Annually
+2792;43;Female;Iowa;Fortnightly
+2793;54;Female;Kentucky;Weekly
+2794;37;Female;Massachusetts;Bi-Weekly
+2795;33;Female;New York;Fortnightly
+2796;33;Female;Nebraska;Annually
+2797;55;Female;Oklahoma;Annually
+2798;63;Female;Oklahoma;Every 3 Months
+2799;52;Female;Rhode Island;Weekly
+2800;23;Female;Maine;Every 3 Months
+2801;70;Female;Arkansas;Bi-Weekly
+2802;64;Female;New Mexico;Annually
+2803;22;Female;Hawaii;Fortnightly
+2804;46;Female;Idaho;Monthly
+2805;65;Female;South Carolina;Every 3 Months
+2806;18;Female;Nevada;Quarterly
+2807;45;Female;South Carolina;Annually
+2808;56;Female;Maryland;Fortnightly
+2809;49;Female;Tennessee;Every 3 Months
+2810;66;Female;Arkansas;Quarterly
+2811;27;Female;Arizona;Fortnightly
+2812;69;Female;Ohio;Quarterly
+2813;66;Female;North Dakota;Every 3 Months
+2814;45;Female;Vermont;Quarterly
+2815;31;Female;Minnesota;Monthly
+2816;33;Female;Idaho;Every 3 Months
+2817;43;Female;Maryland;Weekly
+2818;25;Female;South Carolina;Weekly
+2819;46;Female;California;Annually
+2820;67;Female;Georgia;Monthly
+2821;26;Female;Vermont;Bi-Weekly
+2822;35;Female;Georgia;Monthly
+2823;61;Female;New Jersey;Quarterly
+2824;26;Female;Utah;Bi-Weekly
+2825;39;Female;Utah;Quarterly
+2826;69;Female;North Carolina;Annually
+2827;32;Female;Florida;Annually
+2828;20;Female;Wisconsin;Bi-Weekly
+2829;25;Female;Tennessee;Quarterly
+2830;56;Female;Arizona;Weekly
+2831;63;Female;Oregon;Every 3 Months
+2832;34;Female;Virginia;Weekly
+2833;29;Female;Maryland;Quarterly
+2834;43;Female;Arkansas;Monthly
+2835;39;Female;Texas;Weekly
+2836;33;Female;Vermont;Annually
+2837;51;Female;Wyoming;Bi-Weekly
+2838;65;Female;Alabama;Weekly
+2839;51;Female;Maine;Weekly
+2840;70;Female;South Dakota;Monthly
+2841;40;Female;West Virginia;Annually
+2842;19;Female;Ohio;Weekly
+2843;28;Female;Arizona;Quarterly
+2844;51;Female;Ohio;Weekly
+2845;32;Female;New Mexico;Annually
+2846;26;Female;South Dakota;Every 3 Months
+2847;50;Female;Oklahoma;Bi-Weekly
+2848;68;Female;Connecticut;Every 3 Months
+2849;33;Female;Wisconsin;Quarterly
+2850;56;Female;New Hampshire;Bi-Weekly
+2851;57;Female;Nebraska;Annually
+2852;58;Female;Nevada;Monthly
+2853;40;Female;New York;Weekly
+2854;37;Female;Pennsylvania;Weekly
+2855;36;Female;Delaware;Monthly
+2856;29;Female;Mississippi;Quarterly
+2857;65;Female;Iowa;Monthly
+2858;44;Female;Utah;Monthly
+2859;34;Female;Maryland;Monthly
+2860;31;Female;Utah;Annually
+2861;28;Female;Rhode Island;Weekly
+2862;66;Female;Maryland;Monthly
+2863;68;Female;Hawaii;Every 3 Months
+2864;37;Female;Connecticut;Monthly
+2865;58;Female;Illinois;Weekly
+2866;28;Female;California;Fortnightly
+2867;54;Female;Connecticut;Annually
+2868;21;Female;Colorado;Fortnightly
+2869;45;Female;Colorado;Every 3 Months
+2870;57;Female;Georgia;Weekly
+2871;47;Female;North Dakota;Every 3 Months
+2872;46;Female;Idaho;Bi-Weekly
+2873;63;Female;Connecticut;Annually
+2874;44;Female;Montana;Monthly
+2875;36;Female;Colorado;Annually
+2876;24;Female;Kentucky;Weekly
+2877;65;Female;New Mexico;Fortnightly
+2878;32;Female;New Jersey;Monthly
+2879;63;Female;California;Annually
+2880;62;Female;North Dakota;Annually
+2881;19;Female;Florida;Quarterly
+2882;38;Female;Texas;Annually
+2883;59;Female;Oklahoma;Bi-Weekly
+2884;22;Female;Rhode Island;Weekly
+2885;55;Female;Arkansas;Every 3 Months
+2886;29;Female;Nevada;Bi-Weekly
+2887;42;Female;Utah;Weekly
+2888;23;Female;Kentucky;Bi-Weekly
+2889;70;Female;Wisconsin;Quarterly
+2890;64;Female;Minnesota;Annually
+2891;39;Female;North Dakota;Monthly
+2892;47;Female;Ohio;Monthly
+2893;22;Female;Nevada;Monthly
+2894;69;Female;Kentucky;Every 3 Months
+2895;35;Female;Kentucky;Annually
+2896;56;Female;Montana;Monthly
+2897;30;Female;Delaware;Every 3 Months
+2898;43;Female;Montana;Fortnightly
+2899;23;Female;New Jersey;Annually
+2900;50;Female;Nebraska;Fortnightly
+2901;41;Female;Maryland;Bi-Weekly
+2902;41;Female;Alabama;Quarterly
+2903;27;Female;North Carolina;Bi-Weekly
+2904;38;Female;Delaware;Every 3 Months
+2905;41;Female;Iowa;Monthly
+2906;58;Female;New York;Fortnightly
+2907;58;Female;Virginia;Annually
+2908;19;Female;Maryland;Bi-Weekly
+2909;43;Female;Texas;Every 3 Months
+2910;27;Female;Louisiana;Every 3 Months
+2911;32;Female;Mississippi;Monthly
+2912;28;Female;Ohio;Quarterly
+2913;48;Female;Oregon;Bi-Weekly
+2914;43;Female;Wyoming;Every 3 Months
+2915;45;Female;Pennsylvania;Bi-Weekly
+2916;26;Female;Oregon;Bi-Weekly
+2917;62;Female;Oklahoma;Bi-Weekly
+2918;58;Female;Colorado;Annually
+2919;19;Female;New York;Weekly
+2920;64;Female;Minnesota;Monthly
+2921;33;Female;Texas;Bi-Weekly
+2922;20;Female;Wisconsin;Fortnightly
+2923;45;Female;Kentucky;Quarterly
+2924;28;Female;Pennsylvania;Quarterly
+2925;47;Female;Rhode Island;Every 3 Months
+2926;54;Female;Illinois;Every 3 Months
+2927;64;Female;Maryland;Weekly
+2928;45;Female;Missouri;Bi-Weekly
+2929;40;Female;Alabama;Weekly
+2930;31;Female;Maine;Fortnightly
+2931;38;Female;Mississippi;Monthly
+2932;36;Female;Alabama;Bi-Weekly
+2933;65;Female;Alaska;Quarterly
+2934;27;Female;Illinois;Monthly
+2935;38;Female;Idaho;Quarterly
+2936;58;Female;North Carolina;Weekly
+2937;31;Female;Washington;Weekly
+2938;28;Female;West Virginia;Weekly
+2939;28;Female;Maine;Monthly
+2940;32;Female;Kentucky;Weekly
+2941;61;Female;Massachusetts;Monthly
+2942;38;Female;Pennsylvania;Monthly
+2943;54;Female;Hawaii;Weekly
+2944;29;Female;Virginia;Monthly
+2945;50;Female;New York;Every 3 Months
+2946;32;Female;Delaware;Every 3 Months
+2947;38;Female;Hawaii;Quarterly
+2948;52;Female;Nebraska;Annually
+2949;61;Female;Vermont;Bi-Weekly
+2950;25;Female;Iowa;Annually
+2951;22;Female;Iowa;Every 3 Months
+2952;47;Female;Arkansas;Weekly
+2953;50;Female;Alabama;Monthly
+2954;45;Female;Maryland;Annually
+2955;33;Female;South Dakota;Annually
+2956;42;Female;Vermont;Annually
+2957;52;Female;Montana;Monthly
+2958;69;Female;South Dakota;Annually
+2959;55;Female;Ohio;Monthly
+2960;38;Female;Texas;Quarterly
+2961;57;Female;Indiana;Weekly
+2962;33;Female;New Hampshire;Bi-Weekly
+2963;57;Female;California;Every 3 Months
+2964;52;Female;Maine;Weekly
+2965;44;Female;Ohio;Fortnightly
+2966;48;Female;Delaware;Fortnightly
+2967;52;Female;Oklahoma;Every 3 Months
+2968;34;Female;Indiana;Annually
+2969;26;Female;South Carolina;Every 3 Months
+2970;36;Female;Vermont;Every 3 Months
+2971;24;Female;Kansas;Bi-Weekly
+2972;30;Female;Utah;Every 3 Months
+2973;31;Female;New York;Every 3 Months
+2974;25;Female;Indiana;Fortnightly
+2975;57;Female;Tennessee;Weekly
+2976;61;Female;Georgia;Every 3 Months
+2977;30;Female;Nebraska;Fortnightly
+2978;38;Female;Washington;Annually
+2979;53;Female;Idaho;Fortnightly
+2980;31;Female;Louisiana;Weekly
+2981;70;Female;New Jersey;Monthly
+2982;21;Female;Delaware;Annually
+2983;33;Female;Wisconsin;Weekly
+2984;60;Female;West Virginia;Quarterly
+2985;45;Female;Texas;Bi-Weekly
+2986;46;Female;Hawaii;Bi-Weekly
+2987;62;Female;Arizona;Monthly
+2988;63;Female;Louisiana;Monthly
+2989;69;Female;Nevada;Monthly
+2990;46;Female;Rhode Island;Weekly
+2991;69;Female;Illinois;Monthly
+2992;66;Female;Utah;Bi-Weekly
+2993;41;Female;North Dakota;Weekly
+2994;32;Female;Kansas;Bi-Weekly
+2995;69;Female;Nevada;Quarterly
+2996;29;Female;Virginia;Bi-Weekly
+2997;70;Female;Utah;Every 3 Months
+2998;41;Female;Idaho;Every 3 Months
+2999;31;Female;Alaska;Quarterly
+3000;31;Female;New Hampshire;Monthly
+3001;57;Female;Ohio;Weekly
+3002;29;Female;Montana;Quarterly
+3003;70;Female;Louisiana;Quarterly
+3004;51;Female;Oregon;Every 3 Months
+3005;45;Female;Arizona;Fortnightly
+3006;18;Female;Alaska;Weekly
+3007;37;Female;Utah;Bi-Weekly
+3008;23;Female;New York;Weekly
+3009;39;Female;New Mexico;Weekly
+3010;62;Female;Louisiana;Fortnightly
+3011;70;Female;Ohio;Annually
+3012;20;Female;Nevada;Every 3 Months
+3013;42;Female;Idaho;Annually
+3014;41;Female;Arizona;Monthly
+3015;24;Female;Utah;Every 3 Months
+3016;37;Female;Wyoming;Bi-Weekly
+3017;30;Female;Indiana;Quarterly
+3018;58;Female;Wisconsin;Bi-Weekly
+3019;43;Female;Texas;Bi-Weekly
+3020;19;Female;Utah;Annually
+3021;23;Female;Arkansas;Every 3 Months
+3022;65;Female;Pennsylvania;Quarterly
+3023;58;Female;Georgia;Weekly
+3024;50;Female;Indiana;Quarterly
+3025;67;Female;Idaho;Every 3 Months
+3026;40;Female;Montana;Monthly
+3027;55;Female;Tennessee;Annually
+3028;52;Female;West Virginia;Quarterly
+3029;62;Female;California;Every 3 Months
+3030;64;Female;Georgia;Quarterly
+3031;43;Female;Maryland;Weekly
+3032;61;Female;Idaho;Monthly
+3033;26;Female;California;Quarterly
+3034;22;Female;Alabama;Weekly
+3035;51;Female;Utah;Quarterly
+3036;69;Female;Kentucky;Bi-Weekly
+3037;50;Female;Vermont;Fortnightly
+3038;51;Female;Iowa;Annually
+3039;56;Female;Georgia;Annually
+3040;59;Female;Alabama;Bi-Weekly
+3041;18;Female;Nebraska;Fortnightly
+3042;48;Female;Rhode Island;Monthly
+3043;53;Female;South Dakota;Every 3 Months
+3044;45;Female;Illinois;Monthly
+3045;21;Female;North Carolina;Quarterly
+3046;42;Female;Florida;Bi-Weekly
+3047;60;Female;Pennsylvania;Every 3 Months
+3048;21;Female;Vermont;Bi-Weekly
+3049;69;Female;Colorado;Fortnightly
+3050;40;Female;Utah;Bi-Weekly
+3051;31;Female;Kentucky;Every 3 Months
+3052;44;Female;Wyoming;Every 3 Months
+3053;48;Female;Maine;Fortnightly
+3054;32;Female;Maine;Monthly
+3055;42;Female;New Hampshire;Monthly
+3056;27;Female;Kansas;Bi-Weekly
+3057;69;Female;New Jersey;Bi-Weekly
+3058;67;Female;North Carolina;Weekly
+3059;41;Female;West Virginia;Fortnightly
+3060;46;Female;Kentucky;Quarterly
+3061;47;Female;California;Monthly
+3062;33;Female;South Dakota;Every 3 Months
+3063;51;Female;California;Monthly
+3064;26;Female;Connecticut;Fortnightly
+3065;22;Female;Idaho;Quarterly
+3066;49;Female;North Dakota;Bi-Weekly
+3067;58;Female;Michigan;Every 3 Months
+3068;70;Female;Missouri;Weekly
+3069;32;Female;California;Weekly
+3070;62;Female;Delaware;Quarterly
+3071;52;Female;Alabama;Bi-Weekly
+3072;23;Female;New Hampshire;Monthly
+3073;26;Female;New York;Quarterly
+3074;58;Female;Oregon;Bi-Weekly
+3075;26;Female;Massachusetts;Fortnightly
+3076;54;Female;Utah;Every 3 Months
+3077;66;Female;New Hampshire;Bi-Weekly
+3078;60;Female;Illinois;Bi-Weekly
+3079;32;Female;Alaska;Bi-Weekly
+3080;48;Female;Wyoming;Annually
+3081;69;Female;Colorado;Bi-Weekly
+3082;64;Female;Vermont;Weekly
+3083;56;Female;Utah;Annually
+3084;22;Female;Illinois;Quarterly
+3085;46;Female;Idaho;Monthly
+3086;24;Female;Nevada;Every 3 Months
+3087;47;Female;Utah;Every 3 Months
+3088;62;Female;North Carolina;Monthly
+3089;34;Female;Arkansas;Quarterly
+3090;50;Female;North Carolina;Bi-Weekly
+3091;29;Female;Texas;Quarterly
+3092;68;Female;Nevada;Annually
+3093;52;Female;Utah;Bi-Weekly
+3094;29;Female;Pennsylvania;Every 3 Months
+3095;22;Female;Georgia;Weekly
+3096;62;Female;Minnesota;Fortnightly
+3097;69;Female;Kansas;Monthly
+3098;48;Female;Delaware;Quarterly
+3099;66;Female;New Mexico;Quarterly
+3100;42;Female;Michigan;Bi-Weekly
+3101;50;Female;Vermont;Weekly
+3102;32;Female;Idaho;Fortnightly
+3103;51;Female;South Dakota;Bi-Weekly
+3104;27;Female;Illinois;Weekly
+3105;43;Female;Georgia;Fortnightly
+3106;48;Female;Oregon;Monthly
+3107;62;Female;Alabama;Annually
+3108;65;Female;Hawaii;Bi-Weekly
+3109;50;Female;Oregon;Monthly
+3110;60;Female;Illinois;Fortnightly
+3111;19;Female;Texas;Bi-Weekly
+3112;21;Female;Kansas;Quarterly
+3113;19;Female;Texas;Annually
+3114;46;Female;Nebraska;Weekly
+3115;21;Female;Arkansas;Bi-Weekly
+3116;26;Female;South Dakota;Bi-Weekly
+3117;50;Female;Montana;Weekly
+3118;43;Female;Florida;Bi-Weekly
+3119;61;Female;Virginia;Quarterly
+3120;63;Female;Louisiana;Every 3 Months
+3121;46;Female;Louisiana;Fortnightly
+3122;63;Female;Louisiana;Weekly
+3123;23;Female;Georgia;Fortnightly
+3124;57;Female;Iowa;Bi-Weekly
+3125;57;Female;California;Every 3 Months
+3126;33;Female;Oregon;Quarterly
+3127;57;Female;Maine;Bi-Weekly
+3128;55;Female;Louisiana;Every 3 Months
+3129;65;Female;Arkansas;Annually
+3130;60;Female;Maryland;Every 3 Months
+3131;52;Female;Vermont;Every 3 Months
+3132;34;Female;North Dakota;Every 3 Months
+3133;33;Female;Michigan;Quarterly
+3134;58;Female;Arkansas;Bi-Weekly
+3135;35;Female;Kentucky;Weekly
+3136;68;Female;Indiana;Fortnightly
+3137;58;Female;Minnesota;Bi-Weekly
+3138;34;Female;Louisiana;Monthly
+3139;47;Female;Kentucky;Every 3 Months
+3140;35;Female;Georgia;Weekly
+3141;34;Female;Alaska;Weekly
+3142;36;Female;Mississippi;Bi-Weekly
+3143;23;Female;Kansas;Quarterly
+3144;68;Female;Arizona;Quarterly
+3145;23;Female;Maine;Quarterly
+3146;57;Female;Texas;Fortnightly
+3147;21;Female;Virginia;Annually
+3148;45;Female;North Dakota;Weekly
+3149;37;Female;West Virginia;Weekly
+3150;18;Female;North Carolina;Annually
+3151;55;Female;Georgia;Bi-Weekly
+3152;52;Female;New Mexico;Quarterly
+3153;49;Female;North Carolina;Monthly
+3154;56;Female;Alabama;Fortnightly
+3155;27;Female;Connecticut;Quarterly
+3156;22;Female;Montana;Annually
+3157;18;Female;Montana;Monthly
+3158;21;Female;Maine;Fortnightly
+3159;30;Female;Mississippi;Monthly
+3160;62;Female;Louisiana;Quarterly
+3161;28;Female;Nebraska;Fortnightly
+3162;66;Female;Massachusetts;Monthly
+3163;66;Female;Wisconsin;Quarterly
+3164;49;Female;Nebraska;Monthly
+3165;40;Female;Arizona;Annually
+3166;49;Female;Hawaii;Every 3 Months
+3167;19;Female;Georgia;Fortnightly
+3168;24;Female;Oregon;Bi-Weekly
+3169;31;Female;Montana;Fortnightly
+3170;35;Female;Georgia;Weekly
+3171;65;Female;Rhode Island;Fortnightly
+3172;68;Female;Tennessee;Bi-Weekly
+3173;57;Female;Missouri;Bi-Weekly
+3174;69;Female;Washington;Fortnightly
+3175;45;Female;Oklahoma;Monthly
+3176;35;Female;Connecticut;Every 3 Months
+3177;36;Female;Arkansas;Monthly
+3178;55;Female;Missouri;Monthly
+3179;66;Female;Washington;Annually
+3180;57;Female;Idaho;Bi-Weekly
+3181;18;Female;Montana;Weekly
+3182;31;Female;Montana;Every 3 Months
+3183;50;Female;Georgia;Annually
+3184;50;Female;Mississippi;Every 3 Months
+3185;61;Female;Hawaii;Quarterly
+3186;52;Female;Ohio;Annually
+3187;38;Female;Virginia;Annually
+3188;67;Female;Texas;Weekly
+3189;42;Female;Vermont;Monthly
+3190;25;Female;Kansas;Bi-Weekly
+3191;41;Female;California;Fortnightly
+3192;62;Female;Mississippi;Every 3 Months
+3193;19;Female;Iowa;Fortnightly
+3194;63;Female;Virginia;Fortnightly
+3195;43;Female;Maryland;Bi-Weekly
+3196;68;Female;Missouri;Quarterly
+3197;24;Female;Wisconsin;Fortnightly
+3198;27;Female;Maine;Every 3 Months
+3199;61;Female;Pennsylvania;Weekly
+3200;59;Female;Maine;Monthly
+3201;67;Female;Missouri;Monthly
+3202;46;Female;Vermont;Monthly
+3203;65;Female;Wisconsin;Annually
+3204;63;Female;New Jersey;Annually
+3205;57;Female;New Mexico;Bi-Weekly
+3206;40;Female;Colorado;Every 3 Months
+3207;36;Female;California;Monthly
+3208;67;Female;Arizona;Annually
+3209;61;Female;Indiana;Weekly
+3210;64;Female;Arkansas;Annually
+3211;30;Female;Nevada;Bi-Weekly
+3212;53;Female;Rhode Island;Monthly
+3213;27;Female;Wyoming;Weekly
+3214;27;Female;Texas;Monthly
+3215;53;Female;Washington;Annually
+3216;34;Female;Rhode Island;Every 3 Months
+3217;39;Female;Illinois;Weekly
+3218;44;Female;Oregon;Weekly
+3219;37;Female;Florida;Monthly
+3220;57;Female;Kansas;Weekly
+3221;38;Female;North Dakota;Monthly
+3222;21;Female;New Hampshire;Annually
+3223;45;Female;Texas;Quarterly
+3224;68;Female;Montana;Bi-Weekly
+3225;37;Female;Delaware;Monthly
+3226;53;Female;New Hampshire;Weekly
+3227;57;Female;Minnesota;Fortnightly
+3228;28;Female;Alaska;Quarterly
+3229;37;Female;Connecticut;Annually
+3230;54;Female;Connecticut;Monthly
+3231;49;Female;Kansas;Annually
+3232;62;Female;Nevada;Annually
+3233;45;Female;Massachusetts;Monthly
+3234;45;Female;Indiana;Bi-Weekly
+3235;49;Female;Washington;Quarterly
+3236;27;Female;Kansas;Monthly
+3237;63;Female;South Carolina;Monthly
+3238;61;Female;Vermont;Weekly
+3239;25;Female;Wyoming;Quarterly
+3240;33;Female;Colorado;Monthly
+3241;56;Female;West Virginia;Monthly
+3242;50;Female;Connecticut;Quarterly
+3243;45;Female;Oregon;Weekly
+3244;45;Female;Idaho;Every 3 Months
+3245;65;Female;Arkansas;Annually
+3246;63;Female;Kansas;Weekly
+3247;70;Female;Michigan;Monthly
+3248;53;Female;Arkansas;Fortnightly
+3249;22;Female;Pennsylvania;Quarterly
+3250;26;Female;Virginia;Quarterly
+3251;23;Female;Minnesota;Weekly
+3252;25;Female;Nevada;Quarterly
+3253;69;Female;Montana;Fortnightly
+3254;36;Female;Nebraska;Fortnightly
+3255;21;Female;Indiana;Every 3 Months
+3256;57;Female;New Jersey;Monthly
+3257;60;Female;Wisconsin;Every 3 Months
+3258;44;Female;Minnesota;Every 3 Months
+3259;31;Female;New Jersey;Bi-Weekly
+3260;57;Female;Oklahoma;Every 3 Months
+3261;39;Female;Wisconsin;Annually
+3262;48;Female;Rhode Island;Weekly
+3263;42;Female;Indiana;Every 3 Months
+3264;56;Female;Vermont;Fortnightly
+3265;28;Female;Maine;Bi-Weekly
+3266;40;Female;Alabama;Fortnightly
+3267;49;Female;Alabama;Weekly
+3268;37;Female;Idaho;Quarterly
+3269;22;Female;Arkansas;Every 3 Months
+3270;27;Female;Ohio;Monthly
+3271;59;Female;Illinois;Annually
+3272;35;Female;Nevada;Weekly
+3273;58;Female;Texas;Quarterly
+3274;58;Female;Nevada;Every 3 Months
+3275;46;Female;Oklahoma;Fortnightly
+3276;43;Female;Alabama;Weekly
+3277;39;Female;South Dakota;Every 3 Months
+3278;59;Female;Texas;Monthly
+3279;59;Female;Montana;Weekly
+3280;59;Female;Wyoming;Fortnightly
+3281;45;Female;New York;Monthly
+3282;27;Female;Oregon;Annually
+3283;24;Female;California;Monthly
+3284;47;Female;North Carolina;Every 3 Months
+3285;70;Female;Kentucky;Annually
+3286;58;Female;Hawaii;Weekly
+3287;45;Female;Illinois;Fortnightly
+3288;24;Female;West Virginia;Weekly
+3289;67;Female;South Carolina;Bi-Weekly
+3290;31;Female;Montana;Every 3 Months
+3291;52;Female;North Dakota;Monthly
+3292;29;Female;New Mexico;Monthly
+3293;62;Female;Missouri;Fortnightly
+3294;19;Female;West Virginia;Fortnightly
+3295;62;Female;South Carolina;Bi-Weekly
+3296;70;Female;West Virginia;Weekly
+3297;20;Female;Alaska;Quarterly
+3298;67;Female;West Virginia;Monthly
+3299;65;Female;New Mexico;Every 3 Months
+3300;45;Female;South Dakota;Monthly
+3301;26;Female;Oklahoma;Bi-Weekly
+3302;36;Female;Oklahoma;Fortnightly
+3303;36;Female;Alabama;Bi-Weekly
+3304;20;Female;Mississippi;Fortnightly
+3305;30;Female;Mississippi;Every 3 Months
+3306;34;Female;Nebraska;Bi-Weekly
+3307;63;Female;Colorado;Fortnightly
+3308;18;Female;Pennsylvania;Monthly
+3309;55;Female;Utah;Monthly
+3310;48;Female;Massachusetts;Monthly
+3311;45;Female;Iowa;Fortnightly
+3312;29;Female;Florida;Annually
+3313;55;Female;Louisiana;Quarterly
+3314;55;Female;Kansas;Monthly
+3315;55;Female;Kansas;Quarterly
+3316;48;Female;Kentucky;Every 3 Months
+3317;42;Female;New Mexico;Fortnightly
+3318;21;Female;North Carolina;Quarterly
+3319;45;Female;North Dakota;Monthly
+3320;23;Female;North Dakota;Every 3 Months
+3321;66;Female;Illinois;Every 3 Months
+3322;32;Female;Maine;Annually
+3323;52;Female;Indiana;Weekly
+3324;54;Female;North Dakota;Monthly
+3325;37;Female;Missouri;Weekly
+3326;29;Female;Alaska;Monthly
+3327;47;Female;North Dakota;Annually
+3328;47;Female;Connecticut;Quarterly
+3329;42;Female;Wisconsin;Bi-Weekly
+3330;34;Female;New Jersey;Bi-Weekly
+3331;38;Female;Missouri;Quarterly
+3332;55;Female;California;Quarterly
+3333;27;Female;Washington;Bi-Weekly
+3334;55;Female;Minnesota;Monthly
+3335;66;Female;California;Annually
+3336;44;Female;Texas;Quarterly
+3337;39;Female;Montana;Annually
+3338;23;Female;Arizona;Bi-Weekly
+3339;29;Female;Minnesota;Monthly
+3340;20;Female;Nebraska;Fortnightly
+3341;42;Female;Virginia;Fortnightly
+3342;55;Female;Connecticut;Monthly
+3343;66;Female;New Jersey;Weekly
+3344;24;Female;Kentucky;Bi-Weekly
+3345;62;Female;Washington;Annually
+3346;28;Female;Florida;Bi-Weekly
+3347;30;Female;Oklahoma;Quarterly
+3348;22;Female;Iowa;Bi-Weekly
+3349;28;Female;New Hampshire;Every 3 Months
+3350;35;Female;Georgia;Quarterly
+3351;45;Female;Mississippi;Bi-Weekly
+3352;43;Female;New Hampshire;Fortnightly
+3353;55;Female;Washington;Bi-Weekly
+3354;31;Female;Ohio;Every 3 Months
+3355;42;Female;Maryland;Weekly
+3356;40;Female;Delaware;Bi-Weekly
+3357;39;Female;Tennessee;Bi-Weekly
+3358;41;Female;Arkansas;Monthly
+3359;56;Female;Tennessee;Annually
+3360;43;Female;New Hampshire;Monthly
+3361;22;Female;Minnesota;Every 3 Months
+3362;47;Female;Florida;Bi-Weekly
+3363;50;Female;Tennessee;Fortnightly
+3364;58;Female;California;Bi-Weekly
+3365;50;Female;Oregon;Monthly
+3366;43;Female;Tennessee;Every 3 Months
+3367;38;Female;North Carolina;Quarterly
+3368;44;Female;Tennessee;Fortnightly
+3369;30;Female;Nebraska;Every 3 Months
+3370;47;Female;Maine;Monthly
+3371;30;Female;Illinois;Fortnightly
+3372;49;Female;Colorado;Annually
+3373;56;Female;Pennsylvania;Every 3 Months
+3374;70;Female;Minnesota;Every 3 Months
+3375;22;Female;Nevada;Annually
+3376;51;Female;Connecticut;Annually
+3377;22;Female;Ohio;Quarterly
+3378;37;Female;Kentucky;Fortnightly
+3379;49;Female;Minnesota;Quarterly
+3380;61;Female;Tennessee;Weekly
+3381;41;Female;North Dakota;Every 3 Months
+3382;57;Female;Minnesota;Quarterly
+3383;34;Female;Nebraska;Weekly
+3384;27;Female;Delaware;Bi-Weekly
+3385;39;Female;Minnesota;Quarterly
+3386;62;Female;Rhode Island;Every 3 Months
+3387;34;Female;Michigan;Quarterly
+3388;53;Female;New Jersey;Bi-Weekly
+3389;35;Female;South Dakota;Weekly
+3390;38;Female;North Carolina;Annually
+3391;32;Female;Oregon;Annually
+3392;47;Female;Montana;Every 3 Months
+3393;53;Female;New Jersey;Bi-Weekly
+3394;60;Female;Arizona;Monthly
+3395;31;Female;Vermont;Annually
+3396;44;Female;Colorado;Every 3 Months
+3397;29;Female;Tennessee;Quarterly
+3398;19;Female;New Jersey;Bi-Weekly
+3399;54;Female;Montana;Fortnightly
+3400;40;Female;Montana;Annually
+3401;39;Female;Nevada;Fortnightly
+3402;44;Female;Nevada;Weekly
+3403;22;Female;Louisiana;Every 3 Months
+3404;30;Female;Illinois;Bi-Weekly
+3405;69;Female;South Carolina;Annually
+3406;28;Female;Washington;Bi-Weekly
+3407;57;Female;Nebraska;Quarterly
+3408;46;Female;Alabama;Quarterly
+3409;48;Female;Montana;Annually
+3410;24;Female;Minnesota;Every 3 Months
+3411;50;Female;Ohio;Bi-Weekly
+3412;29;Female;New York;Weekly
+3413;61;Female;Indiana;Quarterly
+3414;34;Female;Delaware;Bi-Weekly
+3415;27;Female;Connecticut;Quarterly
+3416;38;Female;New York;Annually
+3417;25;Female;Alabama;Every 3 Months
+3418;54;Female;Massachusetts;Fortnightly
+3419;53;Female;South Carolina;Annually
+3420;23;Female;West Virginia;Bi-Weekly
+3421;19;Female;Kentucky;Bi-Weekly
+3422;57;Female;New Jersey;Weekly
+3423;19;Female;New York;Monthly
+3424;33;Female;Massachusetts;Bi-Weekly
+3425;33;Female;Florida;Monthly
+3426;38;Female;Michigan;Bi-Weekly
+3427;47;Female;Oregon;Annually
+3428;39;Female;Michigan;Annually
+3429;32;Female;Washington;Monthly
+3430;27;Female;Alaska;Weekly
+3431;67;Female;Montana;Every 3 Months
+3432;46;Female;New Mexico;Annually
+3433;36;Female;Connecticut;Every 3 Months
+3434;62;Female;Alaska;Annually
+3435;31;Female;Ohio;Fortnightly
+3436;68;Female;Montana;Bi-Weekly
+3437;57;Female;Nebraska;Monthly
+3438;22;Female;Oklahoma;Annually
+3439;26;Female;Kentucky;Monthly
+3440;43;Female;Idaho;Quarterly
+3441;45;Female;Maryland;Weekly
+3442;64;Female;Tennessee;Annually
+3443;28;Female;Michigan;Weekly
+3444;47;Female;Tennessee;Bi-Weekly
+3445;53;Female;Rhode Island;Bi-Weekly
+3446;42;Female;Florida;Annually
+3447;51;Female;Louisiana;Weekly
+3448;62;Female;Arkansas;Bi-Weekly
+3449;18;Female;Kentucky;Fortnightly
+3450;48;Female;Kansas;Monthly
+3451;20;Female;Vermont;Monthly
+3452;32;Female;Nevada;Annually
+3453;26;Female;Oklahoma;Fortnightly
+3454;31;Female;Alabama;Bi-Weekly
+3455;55;Female;Louisiana;Bi-Weekly
+3456;49;Female;Ohio;Annually
+3457;42;Female;Texas;Monthly
+3458;64;Female;Maryland;Fortnightly
+3459;68;Female;West Virginia;Quarterly
+3460;68;Female;Ohio;Annually
+3461;41;Female;Indiana;Bi-Weekly
+3462;51;Female;Wyoming;Quarterly
+3463;44;Female;Michigan;Every 3 Months
+3464;27;Female;Maine;Fortnightly
+3465;36;Female;Utah;Annually
+3466;19;Female;Iowa;Weekly
+3467;49;Female;Maryland;Annually
+3468;18;Female;Texas;Annually
+3469;36;Female;Ohio;Quarterly
+3470;36;Female;North Dakota;Annually
+3471;19;Female;West Virginia;Bi-Weekly
+3472;43;Female;North Carolina;Bi-Weekly
+3473;31;Female;Georgia;Weekly
+3474;63;Female;Kansas;Weekly
+3475;41;Female;Maine;Monthly
+3476;48;Female;South Carolina;Quarterly
+3477;68;Female;South Carolina;Weekly
+3478;53;Female;Kentucky;Bi-Weekly
+3479;36;Female;Arizona;Quarterly
+3480;46;Female;New York;Monthly
+3481;21;Female;New Hampshire;Monthly
+3482;52;Female;Ohio;Bi-Weekly
+3483;66;Female;Hawaii;Weekly
+3484;19;Female;Texas;Every 3 Months
+3485;44;Female;Illinois;Bi-Weekly
+3486;50;Female;Massachusetts;Fortnightly
+3487;51;Female;North Carolina;Weekly
+3488;25;Female;West Virginia;Annually
+3489;62;Female;Delaware;Quarterly
+3490;48;Female;Idaho;Every 3 Months
+3491;62;Female;Oregon;Quarterly
+3492;22;Female;Maine;Monthly
+3493;48;Female;South Dakota;Annually
+3494;48;Female;New Mexico;Weekly
+3495;62;Female;Washington;Quarterly
+3496;24;Female;Georgia;Weekly
+3497;39;Female;Idaho;Monthly
+3498;35;Female;Colorado;Every 3 Months
+3499;47;Female;Kentucky;Bi-Weekly
+3500;22;Female;New Jersey;Every 3 Months
+3501;38;Female;Oregon;Fortnightly
+3502;53;Female;Nebraska;Weekly
+3503;31;Female;Massachusetts;Quarterly
+3504;31;Female;Nebraska;Weekly
+3505;65;Female;Hawaii;Monthly
+3506;48;Female;Indiana;Every 3 Months
+3507;18;Female;Illinois;Fortnightly
+3508;46;Female;Colorado;Every 3 Months
+3509;52;Female;Pennsylvania;Weekly
+3510;50;Female;Ohio;Bi-Weekly
+3511;49;Female;Pennsylvania;Monthly
+3512;69;Female;Mississippi;Every 3 Months
+3513;36;Female;Kentucky;Quarterly
+3514;30;Female;Alaska;Fortnightly
+3515;25;Female;Georgia;Monthly
+3516;19;Female;South Dakota;Bi-Weekly
+3517;34;Female;South Carolina;Bi-Weekly
+3518;29;Female;Tennessee;Every 3 Months
+3519;50;Female;Colorado;Quarterly
+3520;31;Female;Wisconsin;Fortnightly
+3521;41;Female;Georgia;Monthly
+3522;52;Female;Maryland;Weekly
+3523;27;Female;New Jersey;Quarterly
+3524;49;Female;Nevada;Fortnightly
+3525;69;Female;Michigan;Monthly
+3526;45;Female;Wyoming;Annually
+3527;20;Female;Massachusetts;Every 3 Months
+3528;25;Female;Washington;Weekly
+3529;38;Female;Maine;Annually
+3530;55;Female;Montana;Weekly
+3531;62;Female;Oklahoma;Weekly
+3532;54;Female;North Dakota;Quarterly
+3533;61;Female;Connecticut;Annually
+3534;50;Female;Texas;Fortnightly
+3535;65;Female;Delaware;Weekly
+3536;68;Female;Mississippi;Monthly
+3537;55;Female;Minnesota;Monthly
+3538;57;Female;Georgia;Every 3 Months
+3539;56;Female;Iowa;Monthly
+3540;29;Female;New York;Bi-Weekly
+3541;24;Female;Nevada;Weekly
+3542;59;Female;Virginia;Annually
+3543;62;Female;Idaho;Weekly
+3544;58;Female;Colorado;Every 3 Months
+3545;64;Female;Wisconsin;Every 3 Months
+3546;48;Female;Connecticut;Annually
+3547;60;Female;Kansas;Bi-Weekly
+3548;52;Female;Pennsylvania;Annually
+3549;63;Female;Utah;Fortnightly
+3550;44;Female;Oregon;Fortnightly
+3551;63;Female;West Virginia;Weekly
+3552;66;Female;Montana;Weekly
+3553;22;Female;Kentucky;Quarterly
+3554;62;Female;Minnesota;Weekly
+3555;39;Female;Louisiana;Fortnightly
+3556;25;Female;Delaware;Quarterly
+3557;70;Female;Arizona;Bi-Weekly
+3558;52;Female;Nevada;Every 3 Months
+3559;68;Female;Alaska;Quarterly
+3560;18;Female;Utah;Every 3 Months
+3561;18;Female;Kansas;Annually
+3562;63;Female;North Carolina;Fortnightly
+3563;47;Female;Maryland;Weekly
+3564;43;Female;Maine;Every 3 Months
+3565;60;Female;Illinois;Annually
+3566;49;Female;Pennsylvania;Monthly
+3567;28;Female;Alaska;Monthly
+3568;32;Female;New Mexico;Monthly
+3569;29;Female;Arkansas;Quarterly
+3570;35;Female;Alaska;Fortnightly
+3571;23;Female;Louisiana;Annually
+3572;70;Female;North Dakota;Every 3 Months
+3573;23;Female;Rhode Island;Monthly
+3574;43;Female;Connecticut;Monthly
+3575;29;Female;New York;Quarterly
+3576;61;Female;Kentucky;Bi-Weekly
+3577;29;Female;Maine;Bi-Weekly
+3578;66;Female;Missouri;Weekly
+3579;46;Female;Georgia;Quarterly
+3580;34;Female;Arizona;Every 3 Months
+3581;51;Female;New Hampshire;Bi-Weekly
+3582;26;Female;Georgia;Weekly
+3583;23;Female;California;Annually
+3584;52;Female;Arizona;Every 3 Months
+3585;39;Female;Florida;Monthly
+3586;39;Female;New York;Bi-Weekly
+3587;33;Female;Idaho;Bi-Weekly
+3588;33;Female;Virginia;Annually
+3589;23;Female;Michigan;Annually
+3590;31;Female;New Hampshire;Every 3 Months
+3591;27;Female;South Dakota;Every 3 Months
+3592;48;Female;South Dakota;Quarterly
+3593;61;Female;New Jersey;Fortnightly
+3594;63;Female;Wyoming;Monthly
+3595;19;Female;Alabama;Quarterly
+3596;21;Female;South Dakota;Annually
+3597;28;Female;South Carolina;Fortnightly
+3598;29;Female;New Mexico;Quarterly
+3599;23;Female;Connecticut;Bi-Weekly
+3600;37;Female;Kansas;Weekly
+3601;67;Female;South Carolina;Bi-Weekly
+3602;34;Female;North Carolina;Monthly
+3603;58;Female;Wyoming;Quarterly
+3604;45;Female;Louisiana;Weekly
+3605;63;Female;Louisiana;Annually
+3606;68;Female;Alabama;Every 3 Months
+3607;41;Female;Minnesota;Annually
+3608;50;Female;New Mexico;Bi-Weekly
+3609;24;Female;Tennessee;Every 3 Months
+3610;21;Female;New Mexico;Monthly
+3611;18;Female;Texas;Fortnightly
+3612;63;Female;Washington;Annually
+3613;47;Female;Michigan;Every 3 Months
+3614;58;Female;Minnesota;Annually
+3615;46;Female;Delaware;Annually
+3616;35;Female;California;Monthly
+3617;42;Female;Wisconsin;Fortnightly
+3618;48;Female;Kentucky;Monthly
+3619;28;Female;Nevada;Bi-Weekly
+3620;44;Female;North Carolina;Weekly
+3621;60;Female;Louisiana;Fortnightly
+3622;38;Female;New Jersey;Fortnightly
+3623;46;Female;Wisconsin;Annually
+3624;39;Female;Arkansas;Weekly
+3625;22;Female;Texas;Bi-Weekly
+3626;44;Female;Illinois;Weekly
+3627;69;Female;Mississippi;Quarterly
+3628;39;Female;Delaware;Every 3 Months
+3629;53;Female;Georgia;Monthly
+3630;52;Female;Kansas;Fortnightly
+3631;65;Female;Oklahoma;Weekly
+3632;48;Female;New Jersey;Monthly
+3633;27;Female;Utah;Quarterly
+3634;39;Female;Montana;Bi-Weekly
+3635;59;Female;Ohio;Annually
+3636;52;Female;Colorado;Fortnightly
+3637;50;Female;California;Weekly
+3638;32;Female;Utah;Fortnightly
+3639;40;Female;Kansas;Bi-Weekly
+3640;26;Female;Illinois;Annually
+3641;47;Female;Minnesota;Monthly
+3642;51;Female;New York;Every 3 Months
+3643;47;Female;Arizona;Annually
+3644;53;Female;Tennessee;Annually
+3645;35;Female;Arkansas;Weekly
+3646;38;Female;Colorado;Every 3 Months
+3647;69;Female;Nevada;Fortnightly
+3648;47;Female;Kansas;Weekly
+3649;31;Female;New York;Bi-Weekly
+3650;68;Female;Minnesota;Fortnightly
+3651;51;Female;Ohio;Annually
+3652;20;Female;Arizona;Every 3 Months
+3653;27;Female;Kentucky;Monthly
+3654;67;Female;Minnesota;Fortnightly
+3655;21;Female;Arkansas;Annually
+3656;20;Female;Wyoming;Bi-Weekly
+3657;35;Female;North Dakota;Monthly
+3658;58;Female;Alabama;Every 3 Months
+3659;28;Female;Mississippi;Fortnightly
+3660;27;Female;Illinois;Annually
+3661;19;Female;Arkansas;Fortnightly
+3662;63;Female;Kansas;Fortnightly
+3663;69;Female;Rhode Island;Weekly
+3664;65;Female;Florida;Weekly
+3665;63;Female;Missouri;Fortnightly
+3666;28;Female;North Carolina;Quarterly
+3667;67;Female;Alabama;Every 3 Months
+3668;51;Female;Washington;Monthly
+3669;59;Female;Michigan;Annually
+3670;25;Female;Washington;Quarterly
+3671;31;Female;Vermont;Every 3 Months
+3672;62;Female;Illinois;Quarterly
+3673;51;Female;New York;Monthly
+3674;32;Female;Rhode Island;Fortnightly
+3675;35;Female;Washington;Fortnightly
+3676;70;Female;Virginia;Monthly
+3677;19;Female;Wisconsin;Monthly
+3678;32;Female;Michigan;Annually
+3679;56;Female;Texas;Fortnightly
+3680;53;Female;Idaho;Bi-Weekly
+3681;22;Female;Iowa;Quarterly
+3682;26;Female;Connecticut;Monthly
+3683;42;Female;Wyoming;Bi-Weekly
+3684;30;Female;Mississippi;Fortnightly
+3685;29;Female;Pennsylvania;Bi-Weekly
+3686;47;Female;Tennessee;Bi-Weekly
+3687;59;Female;Louisiana;Bi-Weekly
+3688;34;Female;Arkansas;Every 3 Months
+3689;52;Female;West Virginia;Monthly
+3690;47;Female;South Carolina;Quarterly
+3691;24;Female;Kansas;Bi-Weekly
+3692;63;Female;Michigan;Weekly
+3693;59;Female;Alabama;Fortnightly
+3694;66;Female;South Dakota;Weekly
+3695;45;Female;Rhode Island;Bi-Weekly
+3696;38;Female;Florida;Fortnightly
+3697;63;Female;Connecticut;Annually
+3698;55;Female;Pennsylvania;Weekly
+3699;25;Female;California;Annually
+3700;51;Female;Oklahoma;Weekly
+3701;28;Female;North Dakota;Every 3 Months
+3702;46;Female;New Mexico;Annually
+3703;58;Female;South Carolina;Weekly
+3704;30;Female;Michigan;Every 3 Months
+3705;68;Female;Missouri;Quarterly
+3706;28;Female;Colorado;Annually
+3707;26;Female;Kansas;Bi-Weekly
+3708;35;Female;Illinois;Weekly
+3709;40;Female;South Carolina;Monthly
+3710;31;Female;Utah;Quarterly
+3711;60;Female;Hawaii;Fortnightly
+3712;69;Female;Texas;Annually
+3713;51;Female;Oregon;Quarterly
+3714;49;Female;Arizona;Every 3 Months
+3715;18;Female;New York;Weekly
+3716;63;Female;Nebraska;Monthly
+3717;57;Female;Vermont;Every 3 Months
+3718;45;Female;Maryland;Every 3 Months
+3719;36;Female;Tennessee;Bi-Weekly
+3720;20;Female;Pennsylvania;Every 3 Months
+3721;21;Female;South Carolina;Quarterly
+3722;62;Female;Connecticut;Annually
+3723;23;Female;Kentucky;Fortnightly
+3724;26;Female;Rhode Island;Monthly
+3725;30;Female;Colorado;Annually
+3726;18;Female;Oklahoma;Annually
+3727;47;Female;Idaho;Every 3 Months
+3728;41;Female;Maine;Bi-Weekly
+3729;62;Female;Vermont;Annually
+3730;28;Female;Rhode Island;Quarterly
+3731;46;Female;Florida;Bi-Weekly
+3732;54;Female;West Virginia;Quarterly
+3733;36;Female;Indiana;Annually
+3734;25;Female;Illinois;Every 3 Months
+3735;38;Female;California;Every 3 Months
+3736;38;Female;Massachusetts;Annually
+3737;42;Female;Idaho;Every 3 Months
+3738;19;Female;Kentucky;Bi-Weekly
+3739;34;Female;Delaware;Fortnightly
+3740;38;Female;Idaho;Weekly
+3741;42;Female;Virginia;Bi-Weekly
+3742;58;Female;Arizona;Bi-Weekly
+3743;56;Female;Maryland;Bi-Weekly
+3744;62;Female;Idaho;Quarterly
+3745;24;Female;New Jersey;Fortnightly
+3746;60;Female;Washington;Monthly
+3747;53;Female;Idaho;Monthly
+3748;26;Female;Rhode Island;Bi-Weekly
+3749;34;Female;Delaware;Annually
+3750;24;Female;Alaska;Every 3 Months
+3751;42;Female;Arizona;Monthly
+3752;36;Female;Alabama;Every 3 Months
+3753;24;Female;Washington;Weekly
+3754;39;Female;Louisiana;Fortnightly
+3755;46;Female;Nebraska;Every 3 Months
+3756;64;Female;Pennsylvania;Monthly
+3757;64;Female;South Carolina;Bi-Weekly
+3758;61;Female;California;Weekly
+3759;61;Female;Indiana;Quarterly
+3760;44;Female;Missouri;Quarterly
+3761;65;Female;Connecticut;Weekly
+3762;60;Female;Nevada;Every 3 Months
+3763;65;Female;New York;Annually
+3764;27;Female;Oklahoma;Every 3 Months
+3765;36;Female;South Dakota;Monthly
+3766;22;Female;Missouri;Bi-Weekly
+3767;62;Female;Texas;Annually
+3768;59;Female;New York;Fortnightly
+3769;50;Female;Vermont;Quarterly
+3770;51;Female;Arizona;Annually
+3771;23;Female;Montana;Weekly
+3772;21;Female;Oklahoma;Bi-Weekly
+3773;44;Female;New Hampshire;Annually
+3774;25;Female;Wisconsin;Quarterly
+3775;57;Female;Alaska;Fortnightly
+3776;41;Female;South Dakota;Quarterly
+3777;19;Female;Alaska;Fortnightly
+3778;43;Female;Utah;Weekly
+3779;25;Female;South Dakota;Annually
+3780;60;Female;California;Annually
+3781;54;Female;Mississippi;Quarterly
+3782;52;Female;Tennessee;Fortnightly
+3783;40;Female;Alabama;Fortnightly
+3784;39;Female;Maine;Fortnightly
+3785;54;Female;Virginia;Annually
+3786;64;Female;New Hampshire;Monthly
+3787;31;Female;Tennessee;Weekly
+3788;37;Female;New York;Every 3 Months
+3789;43;Female;Kansas;Monthly
+3790;56;Female;North Dakota;Every 3 Months
+3791;27;Female;Alaska;Weekly
+3792;40;Female;Texas;Weekly
+3793;43;Female;Massachusetts;Fortnightly
+3794;62;Female;Delaware;Annually
+3795;44;Female;South Dakota;Weekly
+3796;45;Female;Arkansas;Weekly
+3797;40;Female;Utah;Quarterly
+3798;68;Female;California;Quarterly
+3799;63;Female;Rhode Island;Annually
+3800;60;Female;Oklahoma;Monthly
+3801;19;Female;Vermont;Bi-Weekly
+3802;26;Female;Kentucky;Fortnightly
+3803;70;Female;Illinois;Monthly
+3804;48;Female;Connecticut;Weekly
+3805;37;Female;Florida;Annually
+3806;48;Female;New Jersey;Quarterly
+3807;18;Female;Missouri;Weekly
+3808;38;Female;Michigan;Annually
+3809;33;Female;Washington;Bi-Weekly
+3810;57;Female;New York;Annually
+3811;46;Female;Wisconsin;Monthly
+3812;46;Female;Idaho;Monthly
+3813;50;Female;Michigan;Every 3 Months
+3814;61;Female;Georgia;Bi-Weekly
+3815;45;Female;Michigan;Every 3 Months
+3816;32;Female;Maine;Fortnightly
+3817;29;Female;Maryland;Fortnightly
+3818;66;Female;Missouri;Annually
+3819;70;Female;Oregon;Monthly
+3820;36;Female;Arkansas;Quarterly
+3821;34;Female;New Hampshire;Quarterly
+3822;20;Female;Oregon;Every 3 Months
+3823;70;Female;Kansas;Every 3 Months
+3824;50;Female;California;Weekly
+3825;54;Female;Georgia;Quarterly
+3826;49;Female;Hawaii;Fortnightly
+3827;50;Female;Montana;Annually
+3828;62;Female;Montana;Fortnightly
+3829;42;Female;Mississippi;Weekly
+3830;69;Female;Washington;Fortnightly
+3831;22;Female;Pennsylvania;Every 3 Months
+3832;36;Female;Nevada;Every 3 Months
+3833;64;Female;Kansas;Weekly
+3834;44;Female;Arizona;Every 3 Months
+3835;43;Female;Tennessee;Quarterly
+3836;58;Female;Pennsylvania;Bi-Weekly
+3837;62;Female;Alaska;Fortnightly
+3838;45;Female;New Mexico;Fortnightly
+3839;47;Female;Rhode Island;Every 3 Months
+3840;66;Female;Connecticut;Quarterly
+3841;30;Female;Idaho;Fortnightly
+3842;68;Female;Mississippi;Monthly
+3843;35;Female;Colorado;Monthly
+3844;64;Female;Georgia;Every 3 Months
+3845;30;Female;Montana;Quarterly
+3846;58;Female;California;Annually
+3847;57;Female;Pennsylvania;Every 3 Months
+3848;60;Female;Delaware;Fortnightly
+3849;22;Female;New Hampshire;Every 3 Months
+3850;46;Female;Florida;Fortnightly
+3851;27;Female;Mississippi;Every 3 Months
+3852;50;Female;Montana;Annually
+3853;65;Female;Mississippi;Weekly
+3854;61;Female;Tennessee;Bi-Weekly
+3855;57;Female;Florida;Annually
+3856;40;Female;Illinois;Quarterly
+3857;39;Female;Virginia;Quarterly
+3858;42;Female;Texas;Every 3 Months
+3859;30;Female;Missouri;Quarterly
+3860;65;Female;Mississippi;Bi-Weekly
+3861;57;Female;Pennsylvania;Annually
+3862;64;Female;Wyoming;Monthly
+3863;56;Female;Idaho;Monthly
+3864;40;Female;New Hampshire;Fortnightly
+3865;55;Female;Wyoming;Fortnightly
+3866;25;Female;Nebraska;Every 3 Months
+3867;58;Female;Alaska;Fortnightly
+3868;46;Female;Maryland;Monthly
+3869;18;Female;Maryland;Annually
+3870;26;Female;Arizona;Annually
+3871;61;Female;Ohio;Every 3 Months
+3872;55;Female;Minnesota;Every 3 Months
+3873;41;Female;New Hampshire;Monthly
+3874;42;Female;Louisiana;Weekly
+3875;70;Female;Nevada;Bi-Weekly
+3876;63;Female;New Hampshire;Annually
+3877;60;Female;Wisconsin;Annually
+3878;28;Female;Nevada;Monthly
+3879;60;Female;South Carolina;Annually
+3880;26;Female;Florida;Quarterly
+3881;42;Female;Massachusetts;Monthly
+3882;56;Female;Georgia;Weekly
+3883;35;Female;North Dakota;Fortnightly
+3884;34;Female;North Dakota;Fortnightly
+3885;47;Female;Maryland;Weekly
+3886;49;Female;New Mexico;Quarterly
+3887;37;Female;Iowa;Quarterly
+3888;40;Female;Kansas;Quarterly
+3889;45;Female;Virginia;Bi-Weekly
+3890;57;Female;Alaska;Annually
+3891;35;Female;Nebraska;Annually
+3892;36;Female;Colorado;Quarterly
+3893;35;Female;Michigan;Fortnightly
+3894;21;Female;Massachusetts;Bi-Weekly
+3895;66;Female;Connecticut;Every 3 Months
+3896;40;Female;Virginia;Weekly
+3897;52;Female;Iowa;Bi-Weekly
+3898;46;Female;New Jersey;Quarterly
+3899;44;Female;Minnesota;Weekly
+3900;52;Female;California;Quarterly
